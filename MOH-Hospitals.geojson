@@ -1,0 +1,4480 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.70601583,
+          43.75028489,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alexandra Marine and General Hospital",
+        "X": -81.706,
+        "Y": 43.7503,
+        "FID": 3514,
+        "OGF_ID": 127908379,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Alexandra Marine and General Hospital",
+        "EN_ALT": "Alexandra Marine and General Hospital",
+        "ADDRESS_1": "120 Napier Street",
+        "COMMUNITY": "Goderich",
+        "POSTALCODE": "N7A1W5",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.18993599,
+          45.22848369999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Almonte General Hospital",
+        "X": -76.1899,
+        "Y": 45.2285,
+        "FID": 3517,
+        "OGF_ID": 127908380,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Almonte General Hospital",
+        "EN_ALT": "Almonte General Hospital",
+        "ADDRESS_1": "75 Spring Street",
+        "COMMUNITY": "Almonte",
+        "POSTALCODE": "K0A1A0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.68564595,
+          48.76861794999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Anson General Hospital",
+        "X": -80.6856,
+        "Y": 48.7686,
+        "FID": 3520,
+        "OGF_ID": 127908381,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Anson General Hospital",
+        "EN_ALT": "Anson General Hospital",
+        "ADDRESS_1": "58 Anson Drive",
+        "COMMUNITY": "Iroquois Falls",
+        "POSTALCODE": "P0K1E0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.35219906,
+          45.44091893000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Arnprior Regional Health",
+        "X": -76.3522,
+        "Y": 45.4409,
+        "FID": 3521,
+        "OGF_ID": 127908382,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Arnprior Regional Health",
+        "EN_ALT": "Arnprior Regional Health",
+        "ADDRESS_1": "350 John Street North",
+        "COMMUNITY": "Arnprior",
+        "POSTALCODE": "K7S2P6",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.59844064,
+          48.75360754,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Atikokan General Hospital",
+        "X": -91.5984,
+        "Y": 48.7536,
+        "FID": 3522,
+        "OGF_ID": 127908383,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Atikokan General Hospital",
+        "EN_ALT": "Atikokan General Hospital",
+        "ADDRESS_1": "120 Dorothy Street",
+        "COMMUNITY": "Atikokan",
+        "POSTALCODE": "P0T1C0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.43235700999999,
+          43.73032739999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Baycrest Hospital - North York",
+        "X": -79.4324,
+        "Y": 43.7303,
+        "FID": 3523,
+        "OGF_ID": 127908384,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Baycrest Hospital - North York",
+        "EN_ALT": "Baycrest Hospital",
+        "ADDRESS_1": "3560 Bathurst Street",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M6A2E1",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.33403358,
+          43.80424681,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bellwood Health Services",
+        "X": -79.334,
+        "Y": 43.8042,
+        "FID": 3524,
+        "OGF_ID": 127908385,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Bellwood Health Services",
+        "EN_ALT": "Bellwood Health Services",
+        "ADDRESS_1": "1020 McNicoll Avenue",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M1W2J6",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.46976525,
+          48.53930892999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bingham Memorial Hospital",
+        "X": -80.4698,
+        "Y": 48.5393,
+        "FID": 3525,
+        "OGF_ID": 127908386,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Bingham Memorial Hospital",
+        "EN_ALT": "Bingham Memorial Hospital",
+        "ADDRESS_1": "507 8th Avenue",
+        "COMMUNITY": "Matheson",
+        "POSTALCODE": "P0K1N0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68319067,
+          44.59202701,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Brockville General - St. Vincent De Paul",
+        "X": -75.6832,
+        "Y": 44.592,
+        "FID": 4052,
+        "OGF_ID": 127908920,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Brockville General - St. Vincent De Paul",
+        "EN_ALT": "Brockville General Hospital",
+        "ADDRESS_1": "42 Garden Street",
+        "COMMUNITY": "Brockville",
+        "POSTALCODE": "K6V2C3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68209187,
+          44.59786160999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Brockville General Hospital",
+        "X": -75.6821,
+        "Y": 44.5979,
+        "FID": 4053,
+        "OGF_ID": 127908921,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Brockville General Hospital",
+        "EN_ALT": "Brockville General Hospital",
+        "ADDRESS_1": "75 Charles Street",
+        "COMMUNITY": "Brockville",
+        "POSTALCODE": "K6V1S8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66453886,
+          44.60278241999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Brockville Mental Health Centre",
+        "X": -75.6645,
+        "Y": 44.6028,
+        "FID": 3780,
+        "OGF_ID": 127908644,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Brockville Mental Health Centre",
+        "EN_ALT": "Royal Ottawa Health Care Group",
+        "ADDRESS_1": "1804 Highway 2 East",
+        "COMMUNITY": "Brockville",
+        "POSTALCODE": "K6V5W7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.69687723999999,
+          45.43174035999997,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bruy?¿re Continuing Care - Elisabeth Bruyere Hospital",
+        "X": -75.6969,
+        "Y": 45.4317,
+        "FID": 4303,
+        "OGF_ID": 127909174,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Bruy?¿re Continuing Care - Elisabeth Bruyere Hospital",
+        "EN_ALT": "Bruy?¿re Continuing Care",
+        "ADDRESS_1": "43 Bruyere Street",
+        "COMMUNITY": "Ottawa",
+        "POSTALCODE": "K1N5C8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70813043999999,
+          45.41341275000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bruy?¿re Continuing Care - Saint-Vincent Hospital",
+        "X": -75.7081,
+        "Y": 45.4134,
+        "FID": 4054,
+        "OGF_ID": 127908922,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Bruy?¿re Continuing Care - Saint-Vincent Hospital",
+        "EN_ALT": "Bruy?¿re Continuing Care",
+        "ADDRESS_1": "60 Cambridge Street North",
+        "COMMUNITY": "Ottawa",
+        "POSTALCODE": "K1R7A5",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.78956213,
+          44.31228117000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Campbellford Memorial Hospital",
+        "X": -77.7896,
+        "Y": 44.3123,
+        "FID": 4056,
+        "OGF_ID": 127908924,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Campbellford Memorial Hospital",
+        "EN_ALT": "Campbellford Memorial Hospital",
+        "ADDRESS_1": "146 Oliver Road",
+        "COMMUNITY": "Campbellford",
+        "POSTALCODE": "K0L1L0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.13611546,
+          45.14077069000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Carleton Place and District Memorial Hospital",
+        "X": -76.1361,
+        "Y": 45.1408,
+        "FID": 4057,
+        "OGF_ID": 127908925,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Carleton Place and District Memorial Hospital",
+        "EN_ALT": "Carleton Place and District Memorial Hospital",
+        "ADDRESS_1": "211 Lake Avenue East",
+        "COMMUNITY": "Carleton Place",
+        "POSTALCODE": "K7C1J4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.37785818000002,
+          43.66867438999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Casey House Hospice",
+        "X": -79.3779,
+        "Y": 43.6687,
+        "FID": 4058,
+        "OGF_ID": 127908926,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Casey House Hospice",
+        "EN_ALT": "Casey House Hospice",
+        "ADDRESS_1": "9 Huntley Street",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M4Y1P2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39895529000002,
+          43.65821439,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Centre For Addiction and Mental Health - College Street Site",
+        "X": -79.399,
+        "Y": 43.6582,
+        "FID": 1988,
+        "OGF_ID": 127908360,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Centre For Addiction and Mental Health - College Street Site",
+        "EN_ALT": "Centre For Addiction and Mental Health",
+        "ADDRESS_1": "250 College Street",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M5T1R8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.41814399,
+          43.64429317999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Centre For Addiction and Mental Health - Queen Street Site",
+        "X": -79.4181,
+        "Y": 43.6443,
+        "FID": 4059,
+        "OGF_ID": 127908927,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Centre For Addiction and Mental Health - Queen Street Site",
+        "EN_ALT": "Centre For Addiction and Mental Health",
+        "ADDRESS_1": "1001 Queen Street West",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M6J1H4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.41508333,
+          47.84023085000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chapleau Health Services",
+        "X": -83.4151,
+        "Y": 47.8402,
+        "FID": 1990,
+        "OGF_ID": 127908362,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Chapleau Health Services",
+        "EN_ALT": "Services De Sante De Chapleau Health Services",
+        "ADDRESS_1": "6 Broomhead Road",
+        "COMMUNITY": "Chapleau",
+        "POSTALCODE": "P0M1K0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.65275682,
+          45.39904615,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Children's Hospital Of Eastern Ontario",
+        "X": -75.6528,
+        "Y": 45.399,
+        "FID": 4060,
+        "OGF_ID": 127908928,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Children's Hospital Of Eastern Ontario",
+        "EN_ALT": "Children's Hospital of Eastern Ontario",
+        "ADDRESS_1": "401 Smyth Road",
+        "COMMUNITY": "Ottawa",
+        "POSTALCODE": "K1H8L1",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.20274192,
+          44.49810109,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Collingwood General and Marine Hospital",
+        "X": -80.2027,
+        "Y": 44.4981,
+        "FID": 4061,
+        "OGF_ID": 127908929,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Collingwood General and Marine Hospital",
+        "EN_ALT": "Collingwood General and Marine Hospital",
+        "ADDRESS_1": "459 Hume Street",
+        "COMMUNITY": "Collingwood",
+        "POSTALCODE": "L9Y1W8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.71861328000001,
+          45.02902153000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cornwall Community Hospital",
+        "X": -74.7186,
+        "Y": 45.029,
+        "FID": 4062,
+        "OGF_ID": 127908930,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Cornwall Community Hospital",
+        "EN_ALT": "Cornwall Community Hospital",
+        "ADDRESS_1": "840 McConnell Avenue",
+        "COMMUNITY": "Cornwall",
+        "POSTALCODE": "K6H5S5",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.47642629,
+          46.09099969,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Deep River and District Hospital",
+        "X": -77.4764,
+        "Y": 46.091,
+        "FID": 4063,
+        "OGF_ID": 127908931,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Deep River and District Hospital",
+        "EN_ALT": "Deep River and District Hospital",
+        "ADDRESS_1": "117 Banting Drive",
+        "COMMUNITY": "Deep River",
+        "POSTALCODE": "K0J1P0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.33617407999999,
+          43.72360760000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Don Mills Surgical Unit",
+        "X": -79.3362,
+        "Y": 43.7236,
+        "FID": 4064,
+        "OGF_ID": 127908932,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Don Mills Surgical Unit",
+        "EN_ALT": "Don Mills Surgical Unit",
+        "ADDRESS_1": "20 Wynford Drive",
+        "COMMUNITY": "North York",
+        "POSTALCODE": "M3C1J4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8390143,
+          49.76970087000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dryden Regional Health Centre",
+        "X": -92.839,
+        "Y": 49.7697,
+        "FID": 4065,
+        "OGF_ID": 127908933,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Dryden Regional Health Centre",
+        "EN_ALT": "Dryden Regional Health Centre",
+        "ADDRESS_1": "58 Goodall Street",
+        "COMMUNITY": "Dryden",
+        "POSTALCODE": "P8N2Z6",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.87854587,
+          47.82297225000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Englehart and District Hospital",
+        "X": -79.8785,
+        "Y": 47.823,
+        "FID": 4066,
+        "OGF_ID": 127908934,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Englehart and District Hospital",
+        "EN_ALT": "Englehart and District Hospital",
+        "ADDRESS_1": "61 Fifth Street",
+        "COMMUNITY": "Englehart",
+        "POSTALCODE": "P0J1H0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.78004890999999,
+          46.24785200000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Espanola General Hospital",
+        "X": -81.78,
+        "Y": 46.2479,
+        "FID": 4067,
+        "OGF_ID": 127908935,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Espanola General Hospital",
+        "EN_ALT": "Espanola General Hospital",
+        "ADDRESS_1": "825 McKinnon Dr.",
+        "COMMUNITY": "Espanola",
+        "POSTALCODE": "P5E1R4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.91164135,
+          44.74187755000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Georgian Bay General Hospital - Midland",
+        "X": -79.9116,
+        "Y": 44.7419,
+        "FID": 4069,
+        "OGF_ID": 127908937,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Georgian Bay General Hospital - Midland",
+        "EN_ALT": "Georgian Bay General Hospital",
+        "ADDRESS_1": "1112 St Andrew's Dr",
+        "COMMUNITY": "Midland",
+        "POSTALCODE": "L4R4P4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.92950636,
+          44.76839294999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Georgian Bay General Hospital - Penetanguishene",
+        "X": -79.9295,
+        "Y": 44.7684,
+        "FID": 4070,
+        "OGF_ID": 127908938,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Georgian Bay General Hospital - Penetanguishene",
+        "EN_ALT": "Georgian Bay General Hospital",
+        "ADDRESS_1": "25 Jeffery St",
+        "COMMUNITY": "Penetanguishene",
+        "POSTALCODE": "L9M1K6",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.95493865,
+          49.7227946,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Geraldton District Hospital",
+        "X": -86.9549,
+        "Y": 49.7228,
+        "FID": 4071,
+        "OGF_ID": 127908939,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Geraldton District Hospital",
+        "EN_ALT": "Geraldton District Hospital",
+        "ADDRESS_1": "500 Hogarth Avenue",
+        "COMMUNITY": "Geraldton",
+        "POSTALCODE": "P0T1M0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.64530828,
+          45.30700017999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Glengarry Memorial Hospital",
+        "X": -74.6453,
+        "Y": 45.307,
+        "FID": 4072,
+        "OGF_ID": 127908940,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Glengarry Memorial Hospital",
+        "EN_ALT": "Glengarry Memorial Hospital",
+        "ADDRESS_1": "20260 County Road 43",
+        "COMMUNITY": "Alexandria",
+        "POSTALCODE": "K0C1A0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.24904711,
+          44.98585791999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Grey Bruce Health Services - Lion's Head",
+        "X": -81.249,
+        "Y": 44.9859,
+        "FID": 4075,
+        "OGF_ID": 127908943,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Grey Bruce Health Services - Lion's Head",
+        "EN_ALT": "Grey Bruce Health Services",
+        "ADDRESS_1": "22 Moore Street",
+        "COMMUNITY": "Lion's Head",
+        "POSTALCODE": "N0H1W0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.65087085,
+          44.31763494000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Grey Bruce Health Services - Markdale",
+        "X": -80.6509,
+        "Y": 44.3176,
+        "FID": 4076,
+        "OGF_ID": 127908944,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Grey Bruce Health Services - Markdale",
+        "EN_ALT": "Grey Bruce Health Services",
+        "ADDRESS_1": "55 Isla Street",
+        "COMMUNITY": "Markdale",
+        "POSTALCODE": "N0C1H0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.60035816000001,
+          44.60631878999997,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Grey Bruce Health Services - Meaford",
+        "X": -80.6004,
+        "Y": 44.6063,
+        "FID": 4077,
+        "OGF_ID": 127908945,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Grey Bruce Health Services - Meaford",
+        "EN_ALT": "Grey Bruce Health Services",
+        "ADDRESS_1": "229 Nelson Street West",
+        "COMMUNITY": "Meaford",
+        "POSTALCODE": "N4L1A3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.91238196,
+          44.56745187000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Grey Bruce Health Services - Owen Sound",
+        "X": -80.9124,
+        "Y": 44.5675,
+        "FID": 4078,
+        "OGF_ID": 127908946,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Grey Bruce Health Services - Owen Sound",
+        "EN_ALT": "Grey Bruce Health Services",
+        "ADDRESS_1": "1800 8th Street East",
+        "COMMUNITY": "Owen Sound",
+        "POSTALCODE": "N4K6M9",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.36586499,
+          44.49338093000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Grey Bruce Health Services - Southampton",
+        "X": -81.3659,
+        "Y": 44.4934,
+        "FID": 4079,
+        "OGF_ID": 127908947,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Grey Bruce Health Services - Southampton",
+        "EN_ALT": "Grey Bruce Health Services",
+        "ADDRESS_1": "340 High Street",
+        "COMMUNITY": "Southampton",
+        "POSTALCODE": "N0H2L0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.13862255,
+          44.73832658999996,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Grey Bruce Health Services - Wiarton",
+        "X": -81.1386,
+        "Y": 44.7383,
+        "FID": 4080,
+        "OGF_ID": 127908948,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Grey Bruce Health Services - Wiarton",
+        "EN_ALT": "Grey Bruce Health Services",
+        "ADDRESS_1": "369 Mary Street",
+        "COMMUNITY": "Wiarton",
+        "POSTALCODE": "N0H2T0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3733306,
+          43.70508825000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Groves Memorial Community Hospital",
+        "X": -80.3733,
+        "Y": 43.7051,
+        "FID": 4081,
+        "OGF_ID": 127908949,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Groves Memorial Community Hospital",
+        "EN_ALT": "Groves Memorial Community Hospital",
+        "ADDRESS_1": "235 Union Street East",
+        "COMMUNITY": "Fergus",
+        "POSTALCODE": "N1M1W3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.25381445,
+          43.55580963000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Guelph General Hospital",
+        "X": -80.2538,
+        "Y": 43.5558,
+        "FID": 4082,
+        "OGF_ID": 127908950,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Guelph General Hospital",
+        "EN_ALT": "Guelph General Hospital",
+        "ADDRESS_1": "115 Delhi Street",
+        "COMMUNITY": "Guelph",
+        "POSTALCODE": "N1E4J4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.52850303,
+          45.03831256000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Haliburton Highlands Health Services - Haliburton",
+        "X": -78.5285,
+        "Y": 45.0383,
+        "FID": 3787,
+        "OGF_ID": 127908651,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Haliburton Highlands Health Services - Haliburton",
+        "EN_ALT": "Haliburton Highlands Health Services",
+        "ADDRESS_1": "7199 Gelert Road",
+        "COMMUNITY": "Haliburton",
+        "POSTALCODE": "K0M1S0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.73070729,
+          44.92593303999997,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Haliburton Highlands Health Services - Minden",
+        "X": -78.7307,
+        "Y": 44.9259,
+        "FID": 3788,
+        "OGF_ID": 127908652,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Haliburton Highlands Health Services - Minden",
+        "EN_ALT": "Haliburton Highlands Health Services",
+        "ADDRESS_1": "6 McPherson Street",
+        "COMMUNITY": "Minden",
+        "POSTALCODE": "K0M2K0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93221806000001,
+          43.64423175999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Halton Healthcare Services - Georgetown",
+        "X": -79.9322,
+        "Y": 43.6442,
+        "FID": 3789,
+        "OGF_ID": 127908653,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Halton Healthcare Services - Georgetown",
+        "EN_ALT": "Halton Healthcare Services",
+        "ADDRESS_1": "1 Princess Anne Dr.",
+        "COMMUNITY": "Georgetown",
+        "POSTALCODE": "L7G2B8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.86981132,
+          43.49790004,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Halton Healthcare Services - Milton",
+        "X": -79.8698,
+        "Y": 43.4979,
+        "FID": 3790,
+        "OGF_ID": 127908654,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Halton Healthcare Services - Milton",
+        "EN_ALT": "Halton Healthcare Services",
+        "ADDRESS_1": "7030 Derry Road",
+        "COMMUNITY": "Milton",
+        "POSTALCODE": "L9T7H6",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.02820725,
+          44.14202758999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hanover and District Hospital",
+        "X": -81.0282,
+        "Y": 44.142,
+        "FID": 3797,
+        "OGF_ID": 127908661,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Hanover and District Hospital",
+        "EN_ALT": "Hanover and District Hospital",
+        "ADDRESS_1": "90-7th Avenue",
+        "COMMUNITY": "Hanover",
+        "POSTALCODE": "N4N2G9",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.60791889,
+          45.59875593,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hawkesbury And District General Hospital",
+        "X": -74.6079,
+        "Y": 45.5988,
+        "FID": 3798,
+        "OGF_ID": 127908662,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Hawkesbury And District General Hospital",
+        "EN_ALT": "Hawkesbury And District General Hospital",
+        "ADDRESS_1": "1111, rue Ghislain",
+        "COMMUNITY": "Hawkesbury",
+        "POSTALCODE": "K6A3G5",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.07235152999999,
+          43.92083930000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Headwaters Health Care Centre - Dufferin",
+        "X": -80.0724,
+        "Y": 43.9208,
+        "FID": 3799,
+        "OGF_ID": 127908663,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Headwaters Health Care Centre - Dufferin",
+        "EN_ALT": "Headwaters Health Care Centre",
+        "ADDRESS_1": "100 Rolling Hills Dr",
+        "COMMUNITY": "Orangeville",
+        "POSTALCODE": "L9W4X9",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.99607377999999,
+          46.46942967999997,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Health Sciences North - Ramsay Lake Health Centre",
+        "X": -80.9961,
+        "Y": 46.4694,
+        "FID": 3800,
+        "OGF_ID": 127908664,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Health Sciences North - Ramsay Lake Health Centre",
+        "EN_ALT": "Health Sciences North",
+        "ADDRESS_1": "41 Ramsey Lake Road",
+        "COMMUNITY": "Sudbury",
+        "POSTALCODE": "P3E5J1",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.96492367,
+          46.47879037999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Health Sciences North - Sudbury Mental Health and Addictions Centre",
+        "X": -80.9649,
+        "Y": 46.4788,
+        "FID": 3810,
+        "OGF_ID": 127908674,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Health Sciences North - Sudbury Mental Health and Addictions Centre",
+        "EN_ALT": "Health Sciences North",
+        "ADDRESS_1": "680 Kirkwood Drive",
+        "COMMUNITY": "Sudbury",
+        "POSTALCODE": "P3E1X3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.37268639,
+          43.71784800000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Holland Bloorview Kids Rehabilitation Hospital",
+        "X": -79.3727,
+        "Y": 43.7178,
+        "FID": 1971,
+        "OGF_ID": 127908343,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Holland Bloorview Kids Rehabilitation Hospital",
+        "EN_ALT": "Holland Bloorview Kids Rehabilitation Hospital",
+        "ADDRESS_1": "150 Kilgour Road",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M4G1R8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.25654805000002,
+          43.55771622999997,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Homewood Health Centre",
+        "X": -80.2565,
+        "Y": 43.5577,
+        "FID": 3811,
+        "OGF_ID": 127908675,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Homewood Health Centre",
+        "EN_ALT": "Homewood Health Centre",
+        "ADDRESS_1": "150 Delhi Street",
+        "COMMUNITY": "Guelph",
+        "POSTALCODE": "N1E6K9",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.63841272000002,
+          45.44399165999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hopital Montfort",
+        "X": -75.6384,
+        "Y": 45.444,
+        "FID": 3812,
+        "OGF_ID": 127908676,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Hopital Montfort",
+        "EN_ALT": "Hopital Montfort",
+        "ADDRESS_1": "713 chemin Montreal",
+        "COMMUNITY": "Ottawa",
+        "POSTALCODE": "K1K0T2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.77444355999998,
+          49.21100817000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hornepayne Community Hospital",
+        "X": -84.7744,
+        "Y": 49.211,
+        "FID": 3813,
+        "OGF_ID": 127908677,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Hornepayne Community Hospital",
+        "EN_ALT": "Hornepayne Community Hospital",
+        "ADDRESS_1": "278 Front Street",
+        "COMMUNITY": "Hornepayne",
+        "POSTALCODE": "P0M1Z0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.73180148,
+          45.01519343,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hotel Dieu Hospital of Cornwall",
+        "X": -74.7318,
+        "Y": 45.0152,
+        "FID": 3814,
+        "OGF_ID": 127908678,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Hotel Dieu Hospital of Cornwall",
+        "EN_ALT": "Hotel Dieu Hospital of Cornwall",
+        "ADDRESS_1": "14 York St",
+        "COMMUNITY": "Cornwall",
+        "POSTALCODE": "K6J5T2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.50959672999998,
+          43.70836718999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Humber River Hospital - Church (Memorial)",
+        "X": -79.5096,
+        "Y": 43.7084,
+        "FID": 3817,
+        "OGF_ID": 127908681,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Humber River Hospital - Church (Memorial)",
+        "EN_ALT": "Humber River Hospital",
+        "ADDRESS_1": "200 Church Street",
+        "COMMUNITY": "Etobicoke",
+        "POSTALCODE": "M9N1N8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.49041122,
+          43.72477659000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Humber River Hospital - Wilson",
+        "X": -79.4904,
+        "Y": 43.7248,
+        "FID": 1976,
+        "OGF_ID": 127908348,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Humber River Hospital - Wilson",
+        "EN_ALT": "Humber River Hospital",
+        "ADDRESS_1": "1235 Wilson Avenue",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M3M0B2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.52661404,
+          43.75528380000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Humber River Hospital -York Finch",
+        "X": -79.5266,
+        "Y": 43.7553,
+        "FID": 3818,
+        "OGF_ID": 127908682,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Humber River Hospital -York Finch",
+        "EN_ALT": "Humber River Hospital",
+        "ADDRESS_1": "2111 Finch Avenue West",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M3N1N1",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.54264247,
+          43.62138508,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Huron Perth Healthcare Alliance - Clinton Public Hospital",
+        "X": -81.5426,
+        "Y": 43.6214,
+        "FID": 1980,
+        "OGF_ID": 127908352,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Huron Perth Healthcare Alliance - Clinton Public Hospital",
+        "EN_ALT": "Clinton Public Hospital",
+        "ADDRESS_1": "98 Shipley Street",
+        "COMMUNITY": "Clinton",
+        "POSTALCODE": "N0M1L0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38571311000001,
+          43.55162927000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Huron Perth Healthcare Alliance - Seaforth Community Hospital",
+        "X": -81.3857,
+        "Y": 43.5516,
+        "FID": 1979,
+        "OGF_ID": 127908351,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Huron Perth Healthcare Alliance - Seaforth Community Hospital",
+        "EN_ALT": "Seaforth Community Hospital",
+        "ADDRESS_1": "24 Centennial Drive",
+        "COMMUNITY": "Seaforth",
+        "POSTALCODE": "N0K1W0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.64147418,
+          45.00941608999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kemptville District Hospital",
+        "X": -75.6415,
+        "Y": 45.0094,
+        "FID": 3820,
+        "OGF_ID": 127908684,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Kemptville District Hospital",
+        "EN_ALT": "Kemptville District Hospital",
+        "ADDRESS_1": "2675 Concession Rd",
+        "COMMUNITY": "Kemptville",
+        "POSTALCODE": "K0G1J0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40331569,
+          43.65732779000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kensington Eye Institute",
+        "X": -79.4033,
+        "Y": 43.6573,
+        "FID": 3821,
+        "OGF_ID": 127908685,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Kensington Eye Institute",
+        "EN_ALT": "Kensington Eye Institute",
+        "ADDRESS_1": "340 College Street",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M5T3A9",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.48614510000002,
+          44.23111272000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kingston Health Sciences Centre - Hotel Dieu",
+        "X": -76.4861,
+        "Y": 44.2311,
+        "FID": 4307,
+        "OGF_ID": 127909178,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Kingston Health Sciences Centre - Hotel Dieu",
+        "EN_ALT": "Kingston Health Sciences Centre",
+        "ADDRESS_1": "166 Brock Street",
+        "COMMUNITY": "Kingston",
+        "POSTALCODE": "K7L5G2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4928669,
+          44.22454361,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kingston Health Sciences Centre - Kingston General",
+        "X": -76.4929,
+        "Y": 44.2245,
+        "FID": 4308,
+        "OGF_ID": 127909179,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Kingston Health Sciences Centre - Kingston General",
+        "EN_ALT": "Kingston Health Sciences Centre",
+        "ADDRESS_1": "76 Stuart Street",
+        "COMMUNITY": "Kingston",
+        "POSTALCODE": "K7L2V7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.01946605,
+          48.15626718999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kirkland and District Hospital",
+        "X": -80.0195,
+        "Y": 48.1563,
+        "FID": 3822,
+        "OGF_ID": 127908686,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Kirkland and District Hospital",
+        "EN_ALT": "Kirkland and District Hospital",
+        "ADDRESS_1": "145 Government Road East",
+        "COMMUNITY": "Kirkland Lake",
+        "POSTALCODE": "P2N3P4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.77256639000001,
+          48.00014240000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lady Dunn Health Centre",
+        "X": -84.7726,
+        "Y": 48.0001,
+        "FID": 3823,
+        "OGF_ID": 127908687,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Lady Dunn Health Centre",
+        "EN_ALT": "Lady Dunn Health Centre",
+        "ADDRESS_1": "17 Government Road",
+        "COMMUNITY": "Wawa",
+        "POSTALCODE": "P0S1K0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0200145,
+          49.06971647,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lady Minto Hospital",
+        "X": -81.02,
+        "Y": 49.0697,
+        "FID": 3824,
+        "OGF_ID": 127908688,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Lady Minto Hospital",
+        "EN_ALT": "Lady Minto Hospital",
+        "ADDRESS_1": "241 8th St",
+        "COMMUNITY": "Cochrane",
+        "POSTALCODE": "P0L1C0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4993919,
+          49.76687123999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lake-Of-The-Woods District Hospital",
+        "X": -94.4994,
+        "Y": 49.7669,
+        "FID": 3825,
+        "OGF_ID": 127908689,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Lake-Of-The-Woods District Hospital",
+        "EN_ALT": "Lake-Of-The-Woods District Hospital",
+        "ADDRESS_1": "21 Sylvan Street",
+        "COMMUNITY": "Kenora",
+        "POSTALCODE": "P9N3W7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.01584328000001,
+          43.83787893,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lakeridge Health - Ajax",
+        "X": -79.0158,
+        "Y": 43.8379,
+        "FID": 4306,
+        "OGF_ID": 127909177,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Lakeridge Health - Ajax",
+        "EN_ALT": "Lakeridge Health",
+        "ADDRESS_1": "580 Harwood Avenue South",
+        "COMMUNITY": "Ajax",
+        "POSTALCODE": "L1S2J4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.67946258,
+          43.90887466000003,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lakeridge Health - Bowmanville",
+        "X": -78.6795,
+        "Y": 43.9089,
+        "FID": 3826,
+        "OGF_ID": 127908690,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Lakeridge Health - Bowmanville",
+        "EN_ALT": "Lakeridge Health",
+        "ADDRESS_1": "47 Liberty St., S",
+        "COMMUNITY": "Bowmanville",
+        "POSTALCODE": "L1C2N4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.86888464,
+          43.90606335,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lakeridge Health - Oshawa",
+        "X": -78.8689,
+        "Y": 43.9061,
+        "FID": 3827,
+        "OGF_ID": 127908691,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Lakeridge Health - Oshawa",
+        "EN_ALT": "Lakeridge Health",
+        "ADDRESS_1": "1 Hospital Court",
+        "COMMUNITY": "Oshawa",
+        "POSTALCODE": "L1G2B9",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.95378109,
+          44.10466977999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lakeridge Health - Port Perry",
+        "X": -78.9538,
+        "Y": 44.1047,
+        "FID": 3828,
+        "OGF_ID": 127908692,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Lakeridge Health - Port Perry",
+        "EN_ALT": "Lakeridge Health",
+        "ADDRESS_1": "451 Paxton St.",
+        "COMMUNITY": "Port Perry",
+        "POSTALCODE": "L9LIL9",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.94277416,
+          43.85656784,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lakeridge Health - Whitby",
+        "X": -78.9428,
+        "Y": 43.8566,
+        "FID": 4304,
+        "OGF_ID": 127909175,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Lakeridge Health - Whitby",
+        "EN_ALT": "Lakeridge Health",
+        "ADDRESS_1": "300 Gordon Street",
+        "COMMUNITY": "Whitby",
+        "POSTALCODE": "L1N5T2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96588935,
+          44.2403693,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lennox and Addington County General Hospital",
+        "X": -76.9659,
+        "Y": 44.2404,
+        "FID": 3830,
+        "OGF_ID": 127908694,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Lennox and Addington County General Hospital",
+        "EN_ALT": "Lennox and Addington County General Hospital",
+        "ADDRESS_1": "8 Richmond Park Dr",
+        "COMMUNITY": "Napanee",
+        "POSTALCODE": "K7R2B5",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.95030719,
+          43.73283912000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Listowel Memorial Hospital",
+        "X": -80.9503,
+        "Y": 43.7328,
+        "FID": 3831,
+        "OGF_ID": 127908695,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Listowel Memorial Hospital",
+        "EN_ALT": "Listowel Memorial Hospital",
+        "ADDRESS_1": "255 Elizabeth St E",
+        "COMMUNITY": "Listowel",
+        "POSTALCODE": "N4W2P5",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.44955162,
+          43.87029912,
+          0
+        ]
+      },
+      "properties": {
+        "name": "MacKenzie Health - Richmond Hill",
+        "X": -79.4496,
+        "Y": 43.8703,
+        "FID": 3011,
+        "OGF_ID": 127908884,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "MacKenzie Health - Richmond Hill",
+        "EN_ALT": "MacKenzie Health",
+        "ADDRESS_1": "10 Trench Street",
+        "COMMUNITY": "Richmond Hill",
+        "POSTALCODE": "L4C4Z3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.92682953000002,
+          45.97904475000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Manitoulin Health Centre - Little Current",
+        "X": -81.9268,
+        "Y": 45.979,
+        "FID": 3512,
+        "OGF_ID": 127908885,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Manitoulin Health Centre - Little Current",
+        "EN_ALT": "Manitoulin Health Centre",
+        "ADDRESS_1": "11 Meredith Street",
+        "COMMUNITY": "Little Current",
+        "POSTALCODE": "P0P1K0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.16748568,
+          45.73794550000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Manitoulin Health Centre - Mindemoya",
+        "X": -82.1675,
+        "Y": 45.7379,
+        "FID": 3516,
+        "OGF_ID": 127908886,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Manitoulin Health Centre - Mindemoya",
+        "EN_ALT": "Manitoulin Health Centre",
+        "ADDRESS_1": "2120 Highway 551",
+        "COMMUNITY": "Mindemoya",
+        "POSTALCODE": "P0P1S0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.23305186,
+          43.88478382999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Markham Stouffville Hospital",
+        "X": -79.2331,
+        "Y": 43.8848,
+        "FID": 4014,
+        "OGF_ID": 127908888,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Markham Stouffville Hospital",
+        "EN_ALT": "Markham-Stouffville Hospital",
+        "ADDRESS_1": "381 Church Street",
+        "COMMUNITY": "Markham",
+        "POSTALCODE": "L3P7P3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.12749154,
+          44.10195897999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Markham Stouffville Hospital - Uxbridge",
+        "X": -79.1275,
+        "Y": 44.102,
+        "FID": 4016,
+        "OGF_ID": 127908889,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Markham Stouffville Hospital - Uxbridge",
+        "EN_ALT": "Markham-Stouffville Hospital",
+        "ADDRESS_1": "4 Campbell Drive",
+        "COMMUNITY": "Uxbridge",
+        "POSTALCODE": "L9P1S4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.71519552,
+          46.31136807000004,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mattawa General Hospital",
+        "X": -78.7152,
+        "Y": 46.3114,
+        "FID": 3801,
+        "OGF_ID": 127908665,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Mattawa General Hospital",
+        "EN_ALT": "Mattawa General Hospital",
+        "ADDRESS_1": "217 Turcotte Park Road",
+        "COMMUNITY": "Mattawa",
+        "POSTALCODE": "P0H1V0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.31405668999999,
+          45.04633363000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Muskoka Algonquin Healthcare - Bracebridge",
+        "X": -79.3141,
+        "Y": 45.0463,
+        "FID": 3534,
+        "OGF_ID": 127908395,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Muskoka Algonquin Healthcare - Bracebridge",
+        "EN_ALT": "Muskoka Algonquin Healthcare",
+        "ADDRESS_1": "75 Ann Street",
+        "COMMUNITY": "Bracebridge",
+        "POSTALCODE": "P1L2E4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.20405047999999,
+          45.33894298000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Muskoka Algonquin Healthcare - Huntsville",
+        "X": -79.2041,
+        "Y": 45.3389,
+        "FID": 3535,
+        "OGF_ID": 127908396,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Muskoka Algonquin Healthcare - Huntsville",
+        "EN_ALT": "Muskoka Algonquin Healthcare",
+        "ADDRESS_1": "100 Frank Miller Drive",
+        "COMMUNITY": "Huntsville",
+        "POSTALCODE": "P1H1H7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.27436744999999,
+          49.01489971000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nipigon District Memorial Hospital",
+        "X": -88.2744,
+        "Y": 49.0149,
+        "FID": 3542,
+        "OGF_ID": 127908403,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Nipigon District Memorial Hospital",
+        "EN_ALT": "Nipigon District Memorial Hospital",
+        "ADDRESS_1": "125 Hogan Road",
+        "COMMUNITY": "Nipigon",
+        "POSTALCODE": "P0T2J0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.49374728,
+          46.33564433000003,
+          0
+        ]
+      },
+      "properties": {
+        "name": "North Bay Regional Health Centre",
+        "X": -79.4937,
+        "Y": 46.3356,
+        "FID": 3544,
+        "OGF_ID": 127908405,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "North Bay Regional Health Centre",
+        "EN_ALT": "North Bay Regional Health Centre",
+        "ADDRESS_1": "50 College Drive",
+        "COMMUNITY": "North Bay",
+        "POSTALCODE": "P1B5A4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.96492367,
+          46.47879037999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "North Bay Regional Health Centre - Kirkwood",
+        "X": -80.9649,
+        "Y": 46.4788,
+        "FID": 3545,
+        "OGF_ID": 127908406,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "North Bay Regional Health Centre - Kirkwood",
+        "EN_ALT": "North Bay Regional Health Centre",
+        "ADDRESS_1": "680 Kirkwood Drive",
+        "COMMUNITY": "Sudbury",
+        "POSTALCODE": "P3E1X3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.10422144999998,
+          48.78085215999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "North of Superior Healthcare Group - McCausland Hospital",
+        "X": -87.1042,
+        "Y": 48.7809,
+        "FID": 3533,
+        "OGF_ID": 127908394,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "North of Superior Healthcare Group - McCausland Hospital",
+        "EN_ALT": "North of Superior Healthcare Group",
+        "ADDRESS_1": "2 Cartier Drive",
+        "COMMUNITY": "Terrace Bay",
+        "POSTALCODE": "P0T2W0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.37741841000002,
+          48.718349,
+          0
+        ]
+      },
+      "properties": {
+        "name": "North of Superior Healthcare Group - Wilson Memorial General Hospital Site",
+        "X": -86.3774,
+        "Y": 48.7183,
+        "FID": 4294,
+        "OGF_ID": 127909165,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "North of Superior Healthcare Group - Wilson Memorial General Hospital Site",
+        "EN_ALT": "North of Superior Healthcare Group",
+        "ADDRESS_1": "26 Peninsula Road",
+        "COMMUNITY": "Marathon",
+        "POSTALCODE": "P0T2E0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.92537587,
+          46.18587362999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "North Shore Health Network - Pavillon",
+        "X": -82.9254,
+        "Y": 46.1859,
+        "FID": 3526,
+        "OGF_ID": 127908387,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "North Shore Health Network - Pavillon",
+        "EN_ALT": "North Shore Health Network",
+        "ADDRESS_1": "525 Causley Street",
+        "COMMUNITY": "Blind River",
+        "POSTALCODE": "P0R1B0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.03555723999999,
+          46.29325687999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "North Shore Health Network - Richards Landing",
+        "X": -84.0356,
+        "Y": 46.2933,
+        "FID": 3527,
+        "OGF_ID": 127908388,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "North Shore Health Network - Richards Landing",
+        "EN_ALT": "North Shore Health Network",
+        "ADDRESS_1": "1180 Richards Street",
+        "COMMUNITY": "Richards Landing",
+        "POSTALCODE": "P0R1J0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.55977928,
+          46.263768,
+          0
+        ]
+      },
+      "properties": {
+        "name": "North Shore Health Network - Thessalon",
+        "X": -83.5598,
+        "Y": 46.2638,
+        "FID": 3528,
+        "OGF_ID": 127908389,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "North Shore Health Network - Thessalon",
+        "EN_ALT": "North Shore Health Network",
+        "ADDRESS_1": "135 Dawson Street",
+        "COMMUNITY": "Thessalon",
+        "POSTALCODE": "P0R1L0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.73820274,
+          43.97462637999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "North Wellington Health Care - Louise Marshall",
+        "X": -80.7382,
+        "Y": 43.9746,
+        "FID": 3546,
+        "OGF_ID": 127908407,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "North Wellington Health Care - Louise Marshall",
+        "EN_ALT": "North Wellington Health Care",
+        "ADDRESS_1": "630 Dublin St",
+        "COMMUNITY": "Mount Forest",
+        "POSTALCODE": "N0G2L3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.84400416,
+          43.83827594999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "North Wellington Health Care - Palmerston",
+        "X": -80.844,
+        "Y": 43.8383,
+        "FID": 3547,
+        "OGF_ID": 127908408,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "North Wellington Health Care - Palmerston",
+        "EN_ALT": "North Wellington Health Care",
+        "ADDRESS_1": "500 Whites Road",
+        "COMMUNITY": "Palmerston",
+        "POSTALCODE": "N0G2P0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.44810081999998,
+          43.77287000000003,
+          0
+        ]
+      },
+      "properties": {
+        "name": "North York General Hospital - Branson Site",
+        "X": -79.4481,
+        "Y": 43.7729,
+        "FID": 3548,
+        "OGF_ID": 127908409,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "North York General Hospital - Branson Site",
+        "EN_ALT": "North York General Hospital",
+        "ADDRESS_1": "555 Finch Avenue West",
+        "COMMUNITY": "North York",
+        "POSTALCODE": "M2R1N5",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.36423898999999,
+          43.76950930999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "North York General Hospital - General Site",
+        "X": -79.3642,
+        "Y": 43.7695,
+        "FID": 3549,
+        "OGF_ID": 127908410,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "North York General Hospital - General Site",
+        "EN_ALT": "North York General Hospital",
+        "ADDRESS_1": "4001 Leslie Street",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M2K1E1",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.19720463,
+          43.97673570000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Northumberland Hills Hospital",
+        "X": -78.1972,
+        "Y": 43.9767,
+        "FID": 3761,
+        "OGF_ID": 127908625,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Northumberland Hills Hospital",
+        "EN_ALT": "Northumberland Hills Hospital",
+        "ADDRESS_1": "1000 DePalma Drive",
+        "COMMUNITY": "Cobourg",
+        "POSTALCODE": "K9A5W6",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.67850467,
+          49.68684911,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Notre Dame Hospital",
+        "X": -83.6785,
+        "Y": 49.6868,
+        "FID": 3762,
+        "OGF_ID": 127908626,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Notre Dame Hospital",
+        "EN_ALT": "Notre Dame Hospital",
+        "ADDRESS_1": "1405 Edward Street",
+        "COMMUNITY": "Hearst",
+        "POSTALCODE": "P0L1N0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.94378535999999,
+          43.85066533999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ontario Shores Centre For Mental Health Sciences",
+        "X": -78.9438,
+        "Y": 43.8507,
+        "FID": 3763,
+        "OGF_ID": 127908627,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Ontario Shores Centre For Mental Health Sciences",
+        "EN_ALT": "Ontario Shores Centre For Mental Health Sciences",
+        "ADDRESS_1": "700 Gordon Street",
+        "COMMUNITY": "Whitby",
+        "POSTALCODE": "L1N5S9",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42485038,
+          44.60462925000003,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Orillia Soldiers' Memorial Hospital",
+        "X": -79.4249,
+        "Y": 44.6046,
+        "FID": 3764,
+        "OGF_ID": 127908628,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Orillia Soldiers' Memorial Hospital",
+        "EN_ALT": "Orillia Soldiers' Memorial Hospital",
+        "ADDRESS_1": "170 Colborne Street West",
+        "COMMUNITY": "Orillia",
+        "POSTALCODE": "L3V2Z3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.10804474,
+          45.81389886,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pembroke Regional Hospital",
+        "X": -77.108,
+        "Y": 45.8139,
+        "FID": 3765,
+        "OGF_ID": 127908629,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Pembroke Regional Hospital",
+        "EN_ALT": "Pembroke Regional Hospital",
+        "ADDRESS_1": "705 MacKay St",
+        "COMMUNITY": "Pembroke",
+        "POSTALCODE": "K8A1G8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.25352998,
+          44.90547243999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Perth and Smiths Falls District Hospital - Perth",
+        "X": -76.2535,
+        "Y": 44.9055,
+        "FID": 3766,
+        "OGF_ID": 127908630,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Perth and Smiths Falls District Hospital - Perth",
+        "EN_ALT": "Perth and Smiths Falls District Hospital",
+        "ADDRESS_1": "33 Drummond Street West",
+        "COMMUNITY": "Perth",
+        "POSTALCODE": "K7H2K1",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0253229,
+          44.90657645,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Perth and Smiths Falls District Hospital - Smiths Falls",
+        "X": -76.0253,
+        "Y": 44.9066,
+        "FID": 3767,
+        "OGF_ID": 127908631,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Perth and Smiths Falls District Hospital - Smiths Falls",
+        "EN_ALT": "Perth and Smiths Falls District Hospital",
+        "ADDRESS_1": "60 Cornelia Street West",
+        "COMMUNITY": "SmithsFalls",
+        "POSTALCODE": "K7A2H9",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.34592671,
+          44.30090344999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Peterborough Regional Health Centre",
+        "X": -78.3459,
+        "Y": 44.3009,
+        "FID": 3768,
+        "OGF_ID": 127908632,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Peterborough Regional Health Centre",
+        "EN_ALT": "Peterborough Regional Health Centre",
+        "ADDRESS_1": "1 Hospital Drive",
+        "COMMUNITY": "Peterborough",
+        "POSTALCODE": "K9J7C6",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.52590621000002,
+          44.22039390999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Providence Care Hospital",
+        "X": -76.5259,
+        "Y": 44.2204,
+        "FID": 4312,
+        "OGF_ID": 127909183,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Providence Care Hospital",
+        "EN_ALT": "Providence Care Hospital",
+        "ADDRESS_1": "752 King Street West",
+        "COMMUNITY": "Kingston",
+        "POSTALCODE": "K7L4X3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.80474887,
+          45.33389504000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Queensway-Carleton Hospital",
+        "X": -75.8047,
+        "Y": 45.3339,
+        "FID": 3770,
+        "OGF_ID": 127908634,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Queensway-Carleton Hospital",
+        "EN_ALT": "Queensway-Carleton Hospital",
+        "ADDRESS_1": "3045 Baseline Road",
+        "COMMUNITY": "Ottawa",
+        "POSTALCODE": "K2H8P4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.36490578,
+          44.16370397000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Quinte Healthcare - Belleville",
+        "X": -77.3649,
+        "Y": 44.1637,
+        "FID": 3771,
+        "OGF_ID": 127908635,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Quinte Healthcare - Belleville",
+        "EN_ALT": "Quinte Healthcare",
+        "ADDRESS_1": "265 Dundas Street East",
+        "COMMUNITY": "Belleville",
+        "POSTALCODE": "K8N5A9",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.86335242000001,
+          45.05531940000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Quinte Healthcare - North Hastings",
+        "X": -77.8634,
+        "Y": 45.0553,
+        "FID": 3772,
+        "OGF_ID": 127908636,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Quinte Healthcare - North Hastings",
+        "EN_ALT": "Quinte Healthcare",
+        "ADDRESS_1": "1H Manor Lane",
+        "COMMUNITY": "Bancroft",
+        "POSTALCODE": "K0L1C0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.13651129,
+          44.01597365000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Quinte Healthcare - Picton",
+        "X": -77.1365,
+        "Y": 44.016,
+        "FID": 3773,
+        "OGF_ID": 127908637,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Quinte Healthcare - Picton",
+        "EN_ALT": "Quinte Healthcare",
+        "ADDRESS_1": "403 Main Street East",
+        "COMMUNITY": "Picton",
+        "POSTALCODE": "K0K2T0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.58783744,
+          44.09899644,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Quinte Healthcare - Trenton",
+        "X": -77.5878,
+        "Y": 44.099,
+        "FID": 4305,
+        "OGF_ID": 127909176,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Quinte Healthcare - Trenton",
+        "EN_ALT": "Quinte Healthcare",
+        "ADDRESS_1": "242 King St",
+        "COMMUNITY": "Trenton",
+        "POSTALCODE": "K8V5S6",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.82074853999998,
+          51.01402194000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Red Lake Margaret Cochenour Memorial Hospital",
+        "X": -93.8207,
+        "Y": 51.014,
+        "FID": 3774,
+        "OGF_ID": 127908638,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Red Lake Margaret Cochenour Memorial Hospital",
+        "EN_ALT": "Red Lake Margaret Cochenour Memorial Hospital",
+        "ADDRESS_1": "51 - Highway 105",
+        "COMMUNITY": "Red Lake",
+        "POSTALCODE": "P0V2M0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.69729637,
+          45.48249292000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Renfrew Victoria Hospital",
+        "X": -76.6973,
+        "Y": 45.4825,
+        "FID": 3775,
+        "OGF_ID": 127908639,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Renfrew Victoria Hospital",
+        "EN_ALT": "Renfrew Victoria Hospital",
+        "ADDRESS_1": "499 Raglan Street",
+        "COMMUNITY": "North Renfrew",
+        "POSTALCODE": "K7V1P6",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.84196919,
+          48.63094204999997,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Riverside Health Care - Emo",
+        "X": -93.842,
+        "Y": 48.6309,
+        "FID": 3777,
+        "OGF_ID": 127908641,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Riverside Health Care - Emo",
+        "EN_ALT": "Riverside Health Care Facilities Inc",
+        "ADDRESS_1": "170 Front St",
+        "COMMUNITY": "Emo",
+        "POSTALCODE": "P0W1E0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.39258615,
+          48.60712798000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Riverside Health Care - Laverendrye",
+        "X": -93.3926,
+        "Y": 48.6071,
+        "FID": 3778,
+        "OGF_ID": 127908642,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Riverside Health Care - Laverendrye",
+        "EN_ALT": "Riverside Health Care Facilities Inc",
+        "ADDRESS_1": "110 Victoria Avenue",
+        "COMMUNITY": "Fort Frances",
+        "POSTALCODE": "P9A2B7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.56860642000001,
+          48.71851480000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Riverside Health Care - Rainy River",
+        "X": -94.5686,
+        "Y": 48.7185,
+        "FID": 3776,
+        "OGF_ID": 127908640,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Riverside Health Care - Rainy River",
+        "EN_ALT": "Riverside Health Care Facilities Inc",
+        "ADDRESS_1": "115 Forth St",
+        "COMMUNITY": "Rainy River",
+        "POSTALCODE": "P0W1L0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.75156924000001,
+          44.35229843999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ross Memorial Hospital",
+        "X": -78.7516,
+        "Y": 44.3523,
+        "FID": 3779,
+        "OGF_ID": 127908643,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Ross Memorial Hospital",
+        "EN_ALT": "Ross Memorial Hospital",
+        "ADDRESS_1": "10 Angeline Street North",
+        "COMMUNITY": "Lindsay",
+        "POSTALCODE": "K9V5B7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.72997125,
+          45.38798665,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Royal Ottawa Mental Health Centre",
+        "X": -75.73,
+        "Y": 45.388,
+        "FID": 3781,
+        "OGF_ID": 127908645,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Royal Ottawa Mental Health Centre",
+        "EN_ALT": "Royal Ottawa Health Care Group",
+        "ADDRESS_1": "1145 Carling Avenue",
+        "COMMUNITY": "Ottawa",
+        "POSTALCODE": "K1Z7K4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.66204134,
+          44.416183,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Royal Victoria Regional Health Centre",
+        "X": -79.662,
+        "Y": 44.4162,
+        "FID": 3782,
+        "OGF_ID": 127908646,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Royal Victoria Regional Health Centre",
+        "EN_ALT": "Royal Victoria Regional Health Centre",
+        "ADDRESS_1": "201 Georgian Dr",
+        "COMMUNITY": "Barrie",
+        "POSTALCODE": "L4M6M2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.48143781999998,
+          43.66410497999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Runnymede Healthcare Centre",
+        "X": -79.4814,
+        "Y": 43.6641,
+        "FID": 3783,
+        "OGF_ID": 127908647,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Runnymede Healthcare Centre",
+        "EN_ALT": "Runnymede Healthcare Centre",
+        "ADDRESS_1": "625 Runnymede Road",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M6S3A3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.33794577,
+          43.66729278999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Salvation Army Toronto Grace Health Centre",
+        "X": -79.3379,
+        "Y": 43.6673,
+        "FID": 3784,
+        "OGF_ID": 127908648,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Salvation Army Toronto Grace Health Centre",
+        "EN_ALT": "Salvation Army Toronto Grace Health Centre",
+        "ADDRESS_1": "47 Austin Terrace",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M5R1Y8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.82431619,
+          49.12743039000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sante Manitouwadge Health",
+        "X": -85.8243,
+        "Y": 49.1274,
+        "FID": 3519,
+        "OGF_ID": 127908887,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Sante Manitouwadge Health",
+        "EN_ALT": "Sante Manitouwadge Health",
+        "ADDRESS_1": "1 Healthcare Cres.",
+        "COMMUNITY": "Manitouwadge",
+        "POSTALCODE": "P0T2C0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.31934516,
+          46.54805611,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sault Area Hospital - General Site",
+        "X": -84.3193,
+        "Y": 46.5481,
+        "FID": 3785,
+        "OGF_ID": 127908649,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Sault Area Hospital - General Site",
+        "EN_ALT": "Sault Area Hospital",
+        "ADDRESS_1": "750 Great Northern Road",
+        "COMMUNITY": "Sault Ste. Marie",
+        "POSTALCODE": "P6B0A8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.30801197,
+          43.80171502000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Scarborough Health Network - Birchmount",
+        "X": -79.308,
+        "Y": 43.8017,
+        "FID": 1981,
+        "OGF_ID": 127908353,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Scarborough Health Network - Birchmount",
+        "EN_ALT": "Scarborough Health Network",
+        "ADDRESS_1": "3030 Birchmount Rd.",
+        "COMMUNITY": "Scarborough",
+        "POSTALCODE": "M1W3W3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.20644574,
+          43.78225532,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Scarborough Health Network - Centenary",
+        "X": -79.2064,
+        "Y": 43.7823,
+        "FID": 1983,
+        "OGF_ID": 127908355,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Scarborough Health Network - Centenary",
+        "EN_ALT": "Scarborough Health Network",
+        "ADDRESS_1": "2867 Ellesmere Road",
+        "COMMUNITY": "Scarborough",
+        "POSTALCODE": "M1E4B9",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.24780025000001,
+          43.75510261000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Scarborough Health Network - Scarborough General",
+        "X": -79.2478,
+        "Y": 43.7551,
+        "FID": 1982,
+        "OGF_ID": 127908354,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Scarborough Health Network - Scarborough General",
+        "EN_ALT": "Scarborough Health Network",
+        "ADDRESS_1": "3030 Lawrence Ave. E.",
+        "COMMUNITY": "Scarborough",
+        "POSTALCODE": "M1P2V5",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42908092,
+          49.42489434000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sensenbrenner Hospital",
+        "X": -82.4291,
+        "Y": 49.4249,
+        "FID": 1989,
+        "OGF_ID": 127908361,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Sensenbrenner Hospital",
+        "EN_ALT": "Sensenbrenner Hospital",
+        "ADDRESS_1": "101 Progress Crescent",
+        "COMMUNITY": "Kapuskasing",
+        "POSTALCODE": "P5N3H5",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40182951,
+          43.82129460999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Shouldice Hospital",
+        "X": -79.4018,
+        "Y": 43.8213,
+        "FID": 1991,
+        "OGF_ID": 127908363,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Shouldice Hospital",
+        "EN_ALT": "Shouldice Hospital",
+        "ADDRESS_1": "7750 Bayview Avenue",
+        "COMMUNITY": "Thornhill",
+        "POSTALCODE": "L3T4A3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.35550588,
+          43.66595199,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sinai Health System - Bridgepoint",
+        "X": -79.3555,
+        "Y": 43.666,
+        "FID": 1992,
+        "OGF_ID": 127908364,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Sinai Health System - Bridgepoint",
+        "EN_ALT": "Sinai Health System",
+        "ADDRESS_1": "14 St. Mathews Road",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M4M2B5",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38972359,
+          43.65769698999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sinai Health System - Mount Sinai",
+        "X": -79.3897,
+        "Y": 43.6577,
+        "FID": 1993,
+        "OGF_ID": 127908365,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Sinai Health System - Mount Sinai",
+        "EN_ALT": "Sinai Health System",
+        "ADDRESS_1": "600 University Avenue",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M5G1X5",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.92542598,
+          50.10601598,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sioux Lookout Meno Ya Win Health Centre - Lookout District",
+        "X": -91.9254,
+        "Y": 50.106,
+        "FID": 1994,
+        "OGF_ID": 127908366,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Sioux Lookout Meno Ya Win Health Centre - Lookout District",
+        "EN_ALT": "Sioux Lookout Meno Ya Win Health Centre",
+        "ADDRESS_1": "1 Meno Ya Win Way",
+        "COMMUNITY": "Sioux Lookout",
+        "POSTALCODE": "P8T1B4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.61212003,
+          49.27301957,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Smooth Rock Falls Hospital",
+        "X": -81.6121,
+        "Y": 49.273,
+        "FID": 1995,
+        "OGF_ID": 127908367,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Smooth Rock Falls Hospital",
+        "EN_ALT": "Smooth Rock Falls Hospital",
+        "ADDRESS_1": "107 Kelly Road",
+        "COMMUNITY": "Smooth Rock Falls",
+        "POSTALCODE": "P0L2B0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.09414439000001,
+          44.29896911000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "South Bruce Grey Health Centre - Chesley",
+        "X": -81.0941,
+        "Y": 44.299,
+        "FID": 1996,
+        "OGF_ID": 127908368,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "South Bruce Grey Health Centre - Chesley",
+        "EN_ALT": "South Bruce Grey Health Centre",
+        "ADDRESS_1": "39-2nd Street S.E",
+        "COMMUNITY": "Chesley",
+        "POSTALCODE": "N0G1L0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.82843929,
+          44.17962871,
+          0
+        ]
+      },
+      "properties": {
+        "name": "South Bruce Grey Health Centre - Durham",
+        "X": -80.8284,
+        "Y": 44.1796,
+        "FID": 1997,
+        "OGF_ID": 127908369,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "South Bruce Grey Health Centre - Durham",
+        "EN_ALT": "South Bruce Grey Health Centre",
+        "ADDRESS_1": "320 College Street",
+        "COMMUNITY": "Durham",
+        "POSTALCODE": "N0G1R0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.62715795,
+          44.18794787,
+          0
+        ]
+      },
+      "properties": {
+        "name": "South Bruce Grey Health Centre - Kincardine",
+        "X": -81.6272,
+        "Y": 44.1879,
+        "FID": 1998,
+        "OGF_ID": 127908370,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "South Bruce Grey Health Centre - Kincardine",
+        "EN_ALT": "South Bruce Grey Health Centre",
+        "ADDRESS_1": "43 Queen Street North",
+        "COMMUNITY": "Kincardine",
+        "POSTALCODE": "N2Z1G6",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.15326809,
+          44.12260887999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "South Bruce Grey Health Centre - Walkerton",
+        "X": -81.1533,
+        "Y": 44.1226,
+        "FID": 1999,
+        "OGF_ID": 127908371,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "South Bruce Grey Health Centre - Walkerton",
+        "EN_ALT": "South Bruce Grey Health Centre",
+        "ADDRESS_1": "21 McGivern St. W.",
+        "COMMUNITY": "Walkerton",
+        "POSTALCODE": "N0G2V0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.45261983999998,
+          44.06085645000004,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Southlake Regional Health Centre",
+        "X": -79.4526,
+        "Y": 44.0609,
+        "FID": 2001,
+        "OGF_ID": 127908373,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Southlake Regional Health Centre",
+        "EN_ALT": "Southlake Regional Health Centre",
+        "ADDRESS_1": "596 Davis Drive",
+        "COMMUNITY": "Newmarket",
+        "POSTALCODE": "L3Y2P9",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.693845,
+          45.48268688,
+          0
+        ]
+      },
+      "properties": {
+        "name": "St. Francis Memorial Hospital",
+        "X": -77.6938,
+        "Y": 45.4827,
+        "FID": 3005,
+        "OGF_ID": 127908375,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "St. Francis Memorial Hospital",
+        "EN_ALT": "St. Francis Memorial Hospital",
+        "ADDRESS_1": "7 St. Francis Memorial Drive",
+        "COMMUNITY": "Barry's Bay",
+        "POSTALCODE": "K0J1B0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.22302966000001,
+          48.43791877000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "St. Joseph's Care Group",
+        "X": -89.223,
+        "Y": 48.4379,
+        "FID": 3007,
+        "OGF_ID": 127908376,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "St. Joseph's Care Group",
+        "EN_ALT": "St. Joseph's Care Group",
+        "ADDRESS_1": "35 Algoma St. N",
+        "COMMUNITY": "Thunder Bay",
+        "POSTALCODE": "P7B5G7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.96759717,
+          46.46718997999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "St. Joseph's Continuing Care Centre Of Sudbury",
+        "X": -80.9676,
+        "Y": 46.4672,
+        "FID": 3010,
+        "OGF_ID": 127908377,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "St. Joseph's Continuing Care Centre Of Sudbury",
+        "EN_ALT": "St. Joseph's Continuing Care Centre Of Sudbury",
+        "ADDRESS_1": "1140 South Bay Road",
+        "COMMUNITY": "Sudbury",
+        "POSTALCODE": "P3E0B6",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.66110321,
+          46.38418246999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "St. Joseph's General Hospital - Elliot Lake",
+        "X": -82.6611,
+        "Y": 46.3842,
+        "FID": 3802,
+        "OGF_ID": 127908666,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "St. Joseph's General Hospital - Elliot Lake",
+        "EN_ALT": "St. Joseph's General Hospital",
+        "ADDRESS_1": "70 Spine Rd",
+        "COMMUNITY": "Elliot Lake",
+        "POSTALCODE": "P5A1X2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.27102845999998,
+          43.55092752999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "St. Joseph's Health Centre Guelph",
+        "X": -80.271,
+        "Y": 43.5509,
+        "FID": 3806,
+        "OGF_ID": 127908670,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "St. Joseph's Health Centre Guelph",
+        "EN_ALT": "St. Joseph's Health Centre Guelph",
+        "ADDRESS_1": "100 Westmount Road",
+        "COMMUNITY": "Guelph",
+        "POSTALCODE": "N1H5H8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.34727257999998,
+          43.70868189999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "St. Joseph's Infirmary",
+        "X": -79.3473,
+        "Y": 43.7087,
+        "FID": 3807,
+        "OGF_ID": 127908671,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "St. Joseph's Infirmary",
+        "EN_ALT": "St. Joseph's Private Hospital and Infirmary",
+        "ADDRESS_1": "101 Thorncliffe Park Drive East",
+        "COMMUNITY": "East York",
+        "POSTALCODE": "M4H1M2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.87599699000002,
+          44.15527325000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Stevenson Memorial Hospital",
+        "X": -79.876,
+        "Y": 44.1553,
+        "FID": 3809,
+        "OGF_ID": 127908673,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Stevenson Memorial Hospital",
+        "EN_ALT": "Stevenson Memorial Hospital",
+        "ADDRESS_1": "200 Fletcher Crescent",
+        "COMMUNITY": "Alliston",
+        "POSTALCODE": "L9R1W7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.37896368999999,
+          43.72147820000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sunnybrook Health Sciences Centre - Bayview Campus",
+        "X": -79.379,
+        "Y": 43.7215,
+        "FID": 4039,
+        "OGF_ID": 127908907,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Sunnybrook Health Sciences Centre - Bayview Campus",
+        "EN_ALT": "Sunnybrook Health Sciences Centre",
+        "ADDRESS_1": "2075 Bayview Avenue",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M4N3M5",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38242548,
+          43.66533289000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sunnybrook Health Sciences Centre - Holland Orthopaedic & Arthritic Centre",
+        "X": -79.3824,
+        "Y": 43.6653,
+        "FID": 4040,
+        "OGF_ID": 127908908,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Sunnybrook Health Sciences Centre - Holland Orthopaedic & Arthritic Centre",
+        "EN_ALT": "Sunnybrook Health Sciences Centre",
+        "ADDRESS_1": "43 Wellesley Street East",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M4Y1H1",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4047548,
+          43.78974300999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sunnybrook Health Sciences Centre - St. John's Rehab",
+        "X": -79.4048,
+        "Y": 43.7897,
+        "FID": 4310,
+        "OGF_ID": 127909181,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Sunnybrook Health Sciences Centre - St. John's Rehab",
+        "EN_ALT": "Sunnybrook Health Sciences Centre",
+        "ADDRESS_1": "285 Cummer Avenue",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M2M2G1",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.69562317,
+          47.49433430999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Temiskaming Hospital",
+        "X": -79.6956,
+        "Y": 47.4943,
+        "FID": 4042,
+        "OGF_ID": 127908910,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Temiskaming Hospital",
+        "EN_ALT": "Temiskaming Hospital",
+        "ADDRESS_1": "421 Shepherdson Road",
+        "COMMUNITY": "New Liskeard",
+        "POSTALCODE": "P0J1P0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38885118999998,
+          43.65656029000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Hospital For Sick Children",
+        "X": -79.3889,
+        "Y": 43.6566,
+        "FID": 4043,
+        "OGF_ID": 127908911,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "The Hospital For Sick Children",
+        "EN_ALT": "The Hospital For Sick Children",
+        "ADDRESS_1": "555 University Avenue",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M5G1X8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.72084944,
+          45.39188545,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Ottawa Hospital - Civic Campus",
+        "X": -75.7208,
+        "Y": 45.3919,
+        "FID": 4044,
+        "OGF_ID": 127908912,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "The Ottawa Hospital - Civic Campus",
+        "EN_ALT": "The Ottawa Hospital",
+        "ADDRESS_1": "1053 Carling Ave.",
+        "COMMUNITY": "Ottawa",
+        "POSTALCODE": "K1Y4E9",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.64737192,
+          45.39941825000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Ottawa Hospital - General Campus",
+        "X": -75.6474,
+        "Y": 45.3994,
+        "FID": 4045,
+        "OGF_ID": 127908913,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "The Ottawa Hospital - General Campus",
+        "EN_ALT": "The Ottawa Hospital",
+        "ADDRESS_1": "501 Smyth Rd",
+        "COMMUNITY": "Ottawa",
+        "POSTALCODE": "K1H8L6",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67010052999998,
+          45.39627895000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Ottawa Hospital - Riverside Campus",
+        "X": -75.6701,
+        "Y": 45.3963,
+        "FID": 4046,
+        "OGF_ID": 127908914,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "The Ottawa Hospital - Riverside Campus",
+        "EN_ALT": "The Ottawa Hospital",
+        "ADDRESS_1": "1967 Riverside Dr.",
+        "COMMUNITY": "Ottawa",
+        "POSTALCODE": "K1H7W9",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.64734862,
+          45.39942024999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Ottawa Hospital - The Rehabilitation Centre",
+        "X": -75.6473,
+        "Y": 45.3994,
+        "FID": 4047,
+        "OGF_ID": 127908915,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "The Ottawa Hospital - The Rehabilitation Centre",
+        "EN_ALT": "The Ottawa Hospital",
+        "ADDRESS_1": "505 Smyth Road",
+        "COMMUNITY": "Ottawa",
+        "POSTALCODE": "K1H8M2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.26766047000001,
+          48.42178076,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Thunder Bay Regional Health Sciences Centre",
+        "X": -89.2677,
+        "Y": 48.4218,
+        "FID": 4048,
+        "OGF_ID": 127908916,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Thunder Bay Regional Health Sciences Centre",
+        "EN_ALT": "Thunder Bay Regional Health Sciences Centre",
+        "ADDRESS_1": "984 Oliver Road",
+        "COMMUNITY": "Thunder Bay",
+        "POSTALCODE": "P7B6V4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.31588481999998,
+          48.48602827,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Timmins and District Hospital",
+        "X": -81.3159,
+        "Y": 48.486,
+        "FID": 4050,
+        "OGF_ID": 127908918,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Timmins and District Hospital",
+        "EN_ALT": "Timmins and District Hospital",
+        "ADDRESS_1": "700 Ross Ave. E.",
+        "COMMUNITY": "Timmins",
+        "POSTALCODE": "P4N8P2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.32611807,
+          43.68959488999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toronto East Health Network",
+        "X": -79.3261,
+        "Y": 43.6896,
+        "FID": 4051,
+        "OGF_ID": 127908919,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Toronto East Health Network",
+        "EN_ALT": "Toronto East Health Network",
+        "ADDRESS_1": "825 Coxwell Avenue",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M4C3E7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.70473858,
+          43.56064305000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Trillium Health Partners - Credit Valley",
+        "X": -79.7047,
+        "Y": 43.5606,
+        "FID": 4018,
+        "OGF_ID": 127908890,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Trillium Health Partners - Credit Valley",
+        "EN_ALT": "Trillium Health Partners",
+        "ADDRESS_1": "2200 Eglinton Avenue West",
+        "COMMUNITY": "Mississauga",
+        "POSTALCODE": "L5M2N1",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.60962035,
+          43.57224755999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Trillium Health Partners- Mississauga",
+        "X": -79.6096,
+        "Y": 43.5722,
+        "FID": 4020,
+        "OGF_ID": 127908891,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Trillium Health Partners- Mississauga",
+        "EN_ALT": "Trillium Health Partners",
+        "ADDRESS_1": "100 Queensway West",
+        "COMMUNITY": "Mississauga",
+        "POSTALCODE": "L5B1B8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.56135704,
+          43.60967276999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Trillium Health Partners- Queensway",
+        "X": -79.5614,
+        "Y": 43.6097,
+        "FID": 4309,
+        "OGF_ID": 127909180,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Trillium Health Partners- Queensway",
+        "EN_ALT": "Trillium Health Partners",
+        "ADDRESS_1": "150 Sherway Drive",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M9C1A5",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.28365045999999,
+          43.71151910000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Unity Health Toronto - Providence",
+        "X": -79.2837,
+        "Y": 43.7115,
+        "FID": 1972,
+        "OGF_ID": 127908344,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Unity Health Toronto - Providence",
+        "EN_ALT": "Unity Health Toronto",
+        "ADDRESS_1": "3276 St. Clair Avenue East",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M1L1W1",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4501151,
+          43.63918727999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Unity Health Toronto - St. Joseph's",
+        "X": -79.4501,
+        "Y": 43.6392,
+        "FID": 1973,
+        "OGF_ID": 127908345,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Unity Health Toronto - St. Joseph's",
+        "EN_ALT": "Unity Health Toronto",
+        "ADDRESS_1": "30 The Queensway",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M6R1B5",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.37730388,
+          43.65371748999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Unity Health Toronto - St. Michael's",
+        "X": -79.3773,
+        "Y": 43.6537,
+        "FID": 1974,
+        "OGF_ID": 127908346,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Unity Health Toronto - St. Michael's",
+        "EN_ALT": "Unity Health Toronto",
+        "ADDRESS_1": "30 Bond Street",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M5B1W8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4323249,
+          43.63513868000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "University Health Network - Bickle Centre",
+        "X": -79.4323,
+        "Y": 43.6351,
+        "FID": 4022,
+        "OGF_ID": 127908892,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "University Health Network - Bickle Centre",
+        "EN_ALT": "University Health Network",
+        "ADDRESS_1": "130 Dunn Avenue",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M6K2R7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38935329,
+          43.65679649000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "University Health Network - Hillcrest",
+        "X": -79.3894,
+        "Y": 43.6568,
+        "FID": 4024,
+        "OGF_ID": 127908893,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "University Health Network - Hillcrest",
+        "EN_ALT": "University Health Network",
+        "ADDRESS_1": "550 University Avenue",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M5G2A2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.36934479000001,
+          43.71831860000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "University Health Network - Lyndhurst",
+        "X": -79.3693,
+        "Y": 43.7183,
+        "FID": 4026,
+        "OGF_ID": 127908894,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "University Health Network - Lyndhurst",
+        "EN_ALT": "University Health Network",
+        "ADDRESS_1": "520 Sutherland Drive",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M4G3V9",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38994319,
+          43.65821678999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "University Health Network - Princess Margaret",
+        "X": -79.3899,
+        "Y": 43.6582,
+        "FID": 4027,
+        "OGF_ID": 127908895,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "University Health Network - Princess Margaret",
+        "EN_ALT": "University Health Network",
+        "ADDRESS_1": "610 University Avenue",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M5G2M9",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38706439,
+          43.65957829000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "University Health Network - Toronto General",
+        "X": -79.3871,
+        "Y": 43.6596,
+        "FID": 4028,
+        "OGF_ID": 127908896,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "University Health Network - Toronto General",
+        "EN_ALT": "University Health Network",
+        "ADDRESS_1": "200 Elizabeth Street",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M5G2C4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40640719,
+          43.65335348,
+          0
+        ]
+      },
+      "properties": {
+        "name": "University Health Network - Toronto Western",
+        "X": -79.4064,
+        "Y": 43.6534,
+        "FID": 4029,
+        "OGF_ID": 127908897,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "University Health Network - Toronto Western",
+        "EN_ALT": "University Health Network",
+        "ADDRESS_1": "399 Bathrust Street",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M5T2S8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.72243533999999,
+          45.39400954999997,
+          0
+        ]
+      },
+      "properties": {
+        "name": "University of Ottawa Heart Institute",
+        "X": -75.7224,
+        "Y": 45.394,
+        "FID": 4030,
+        "OGF_ID": 127908898,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "University of Ottawa Heart Institute",
+        "EN_ALT": "University of Ottawa Heart Institute",
+        "ADDRESS_1": "40 Ruskin Street",
+        "COMMUNITY": "Ottawa",
+        "POSTALCODE": "K1Y4W7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.92950746,
+          44.80092816000003,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Waypoint Centre For Mental Health Care - main location",
+        "X": -79.9295,
+        "Y": 44.8009,
+        "FID": 4031,
+        "OGF_ID": 127908899,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Waypoint Centre For Mental Health Care - main location",
+        "EN_ALT": "Waypoint Centre for Mental Health Care",
+        "ADDRESS_1": "500 Church Street",
+        "COMMUNITY": "Penetanguishene",
+        "POSTALCODE": "L9M1G3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42779696,
+          52.92424701000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Weeneebayko Area Health Authority - Attawapiskat",
+        "X": -82.4278,
+        "Y": 52.9242,
+        "FID": 4032,
+        "OGF_ID": 127908900,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Weeneebayko Area Health Authority - Attawapiskat",
+        "EN_ALT": "Weeneebayko Area Health Authority",
+        "ADDRESS_1": "972 Riverside East",
+        "COMMUNITY": "Moose Factory",
+        "POSTALCODE": "P0L1A0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.68488098,
+          52.20651397,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Weeneebayko Area Health Authority - Fort Albany",
+        "X": -81.6849,
+        "Y": 52.2065,
+        "FID": 4033,
+        "OGF_ID": 127908901,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Weeneebayko Area Health Authority - Fort Albany",
+        "EN_ALT": "Weeneebayko Area Health Authority",
+        "ADDRESS_1": "5 Airport Road",
+        "COMMUNITY": "Fort Albany",
+        "POSTALCODE": "P0L1H0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.61654516,
+          51.25092710000003,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Weeneebayko Area Health Authority - Moose Factory",
+        "X": -80.6165,
+        "Y": 51.2509,
+        "FID": 4302,
+        "OGF_ID": 127909173,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Weeneebayko Area Health Authority - Moose Factory",
+        "EN_ALT": "Weeneebayko Area Health Authority",
+        "ADDRESS_1": "19 Hospital Drive",
+        "COMMUNITY": "Moose Factory",
+        "POSTALCODE": "P0L1W0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.64682097999999,
+          51.27273300000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Weeneebayko Area Health Authority - Moosonee",
+        "X": -80.6468,
+        "Y": 51.2727,
+        "FID": 4034,
+        "OGF_ID": 127908902,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Weeneebayko Area Health Authority - Moosonee",
+        "EN_ALT": "Weeneebayko Area Health Authority",
+        "ADDRESS_1": "5 Percy's Way",
+        "COMMUNITY": "Moosonee",
+        "POSTALCODE": "P0L1Y0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.91570962,
+          46.37239662,
+          0
+        ]
+      },
+      "properties": {
+        "name": "West Nipissing General Hospital",
+        "X": -79.9157,
+        "Y": 46.3724,
+        "FID": 4036,
+        "OGF_ID": 127908904,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "West Nipissing General Hospital",
+        "EN_ALT": "West Nipissing General Hospital",
+        "ADDRESS_1": "725 Coursol Road",
+        "COMMUNITY": "Sturgeon Falls",
+        "POSTALCODE": "P2B2Y6",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.50798713,
+          43.68882729000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "West Park Healthcare Centre",
+        "X": -79.508,
+        "Y": 43.6888,
+        "FID": 4037,
+        "OGF_ID": 127908905,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "West Park Healthcare Centre",
+        "EN_ALT": "West Park Healthcare Centre",
+        "ADDRESS_1": "82 Buttonwood Avenue",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M6M2J5",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.01912065,
+          45.34217014000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "West Parry Sound Health Centre",
+        "X": -80.0191,
+        "Y": 45.3422,
+        "FID": 1975,
+        "OGF_ID": 127908347,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "West Parry Sound Health Centre",
+        "EN_ALT": "West Parry Sound Health Centre",
+        "ADDRESS_1": "6 Albert St",
+        "COMMUNITY": "Parry Sound",
+        "POSTALCODE": "P2A3A4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.74113751,
+          43.74725569,
+          0
+        ]
+      },
+      "properties": {
+        "name": "William Osler Health System - Civic",
+        "X": -79.7411,
+        "Y": 43.7473,
+        "FID": 4083,
+        "OGF_ID": 127908951,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "William Osler Health System - Civic",
+        "EN_ALT": "William Osler Health System",
+        "ADDRESS_1": "2100 Bovaird Drive East",
+        "COMMUNITY": "Brampton",
+        "POSTALCODE": "L6R3J7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.60091456,
+          43.73043289,
+          0
+        ]
+      },
+      "properties": {
+        "name": "William Osler Health System - Etobicoke",
+        "X": -79.6009,
+        "Y": 43.7304,
+        "FID": 4293,
+        "OGF_ID": 127909164,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "William Osler Health System - Etobicoke",
+        "EN_ALT": "William Osler Health System",
+        "ADDRESS_1": "101 Humber College Boulevard",
+        "COMMUNITY": "Etobicoke",
+        "POSTALCODE": "M9V1R8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.751218,
+          43.69093858000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "William Osler Health System - Peel Memorial",
+        "X": -79.7512,
+        "Y": 43.6909,
+        "FID": 4311,
+        "OGF_ID": 127909182,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "William Osler Health System - Peel Memorial",
+        "EN_ALT": "William Osler Health System",
+        "ADDRESS_1": "20 Lynch Street",
+        "COMMUNITY": "Brampton",
+        "POSTALCODE": "L6W2Z8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3523948,
+          45.08845241,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Winchester District Memorial Hospital",
+        "X": -75.3524,
+        "Y": 45.0885,
+        "FID": 4295,
+        "OGF_ID": 127909166,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Winchester District Memorial Hospital",
+        "EN_ALT": "Winchester District Memorial Hospital",
+        "ADDRESS_1": "566 Louise Street",
+        "COMMUNITY": "Winchester",
+        "POSTALCODE": "K0C2K0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.30621632,
+          43.88461053,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Wingham and District Hospital",
+        "X": -81.3062,
+        "Y": 43.8846,
+        "FID": 4299,
+        "OGF_ID": 127909170,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Wingham and District Hospital",
+        "EN_ALT": "Wingham and District Hospital",
+        "ADDRESS_1": "270 Carling Terrace",
+        "COMMUNITY": "Wingham",
+        "POSTALCODE": "N0G2W0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38724699,
+          43.66132718999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Women's College Hospital",
+        "X": -79.3872,
+        "Y": 43.6613,
+        "FID": 4300,
+        "OGF_ID": 127909171,
+        "MOH_PRO_ID": "1e+10",
+        "EN_NAME": "Women's College Hospital",
+        "EN_ALT": "Women's College Hospital",
+        "ADDRESS_1": "76 Grenville Street",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M5S1B2",
+        "EFF_DATE": 20200403
+      }
+    }
+  ]
+}

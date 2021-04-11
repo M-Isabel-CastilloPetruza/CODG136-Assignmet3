@@ -1,0 +1,5933 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.08394885999999,
+          44.74929294000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Anstruther Burleigh Chandos Senior Citizens Incorporated (ABC)",
+        "X": -78.0839,
+        "Y": 44.7493,
+        "FID": 5808,
+        "OGF_ID": 127902476,
+        "MOH_PRO_ID": 1,
+        "EN_NAME": "Anstruther Burleigh Chandos Senior Citizens Incorporated (ABC)",
+        "FR_NAME": "Anstruther Burleigh Chandos Senior Citizens Incorporated (ABC)",
+        "ADDRESS_1": "340 McFadden Road",
+        "ADDRESS_2": "North Kawartha Community Centre",
+        "COMMUNITY": "Apsley",
+        "POSTALCODE": "K0L1A0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.3207518,
+          44.31951014999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Activity Haven Senior Centre (Peterborough) Inc.",
+        "X": -78.3208,
+        "Y": 44.3195,
+        "FID": 5809,
+        "OGF_ID": 127902477,
+        "MOH_PRO_ID": 2,
+        "EN_NAME": "Activity Haven Senior Centre (Peterborough) Inc.",
+        "FR_NAME": "Activity Haven Senior Centre (Peterborough) Inc.",
+        "ADDRESS_1": "180 Barnardo Avenue",
+        "ADDRESS_2": "Queen Alexandra Building",
+        "COMMUNITY": "Peterborough",
+        "POSTALCODE": "K9H5V3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.32184647,
+          43.66597779000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Applegrove Community Complex",
+        "X": -79.3218,
+        "Y": 43.666,
+        "FID": 5810,
+        "OGF_ID": 127902478,
+        "MOH_PRO_ID": 3,
+        "EN_NAME": "Applegrove Community Complex",
+        "FR_NAME": "Applegrove Community Complex",
+        "ADDRESS_1": "60 Woodfield Road",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M4L2W6",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.88180604,
+          44.74402805,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Askennonia Senior Centre",
+        "X": -79.8818,
+        "Y": 44.744,
+        "FID": 5811,
+        "OGF_ID": 127902479,
+        "MOH_PRO_ID": 4,
+        "EN_NAME": "Askennonia Senior Centre",
+        "FR_NAME": "Askennonia Senior Centre",
+        "ADDRESS_1": "527 Len Self Boulevard",
+        "ADDRESS_2": "North Simcoe Sports and Recreation Centre",
+        "COMMUNITY": "Midland",
+        "POSTALCODE": "L4R5N6",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.45131124,
+          44.00579743999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Aurora Seniors Centre",
+        "X": -79.4513,
+        "Y": 44.0058,
+        "FID": 5812,
+        "OGF_ID": 127902480,
+        "MOH_PRO_ID": 5,
+        "EN_NAME": "Aurora Seniors Centre",
+        "FR_NAME": "Centre pour aînés Aurora",
+        "ADDRESS_1": "90 John West Way",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Aurora",
+        "POSTALCODE": "L4G6J1",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.98928946,
+          44.58457091999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bayshore Senior Citizens Association",
+        "X": -79.9893,
+        "Y": 44.5846,
+        "FID": 5813,
+        "OGF_ID": 127902481,
+        "MOH_PRO_ID": 6,
+        "EN_NAME": "Bayshore Senior Citizens Association",
+        "FR_NAME": "Bayshore Senior Citizens Association",
+        "ADDRESS_1": "2000 Tiny Beaches Road South",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Elmvale",
+        "POSTALCODE": "L0L1P1",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.34596237,
+          43.66379448999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bernard Betel Centre for Creative Living",
+        "X": -79.346,
+        "Y": 43.6638,
+        "FID": 5815,
+        "OGF_ID": 127902483,
+        "MOH_PRO_ID": 8,
+        "EN_NAME": "Bernard Betel Centre for Creative Living",
+        "FR_NAME": "Bernard Betel Centre for Creative Living",
+        "ADDRESS_1": "1003 Avenue West",
+        "ADDRESS_2": "Suite eles",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M2R3T6",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.34676838,
+          43.7324815,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Better Living Health and Community Services - E.P. Taylor Place",
+        "X": -79.3468,
+        "Y": 43.7325,
+        "FID": 5816,
+        "OGF_ID": 127902484,
+        "MOH_PRO_ID": 9,
+        "EN_NAME": "Better Living Health and Community Services - E.P. Taylor Place",
+        "FR_NAME": "Better Living Health and Community Services – E.P. Taylor Place",
+        "ADDRESS_1": "1 Overland Drive",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M3C2C3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.34676838,
+          43.7324815,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Better Living Health and Community Services - Overland Club",
+        "X": -79.3468,
+        "Y": 43.7325,
+        "FID": 5817,
+        "OGF_ID": 127902485,
+        "MOH_PRO_ID": 10,
+        "EN_NAME": "Better Living Health and Community Services - Overland Club",
+        "FR_NAME": "Better Living Health and Community Services – Overland Club",
+        "ADDRESS_1": "1 Overland Drive",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M3C2C3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.69022147,
+          44.60553360999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Brockville Senior Citizens Inc. No. 85",
+        "X": -75.6902,
+        "Y": 44.6055,
+        "FID": 5820,
+        "OGF_ID": 127902488,
+        "MOH_PRO_ID": 13,
+        "EN_NAME": "Brockville Senior Citizens Inc. No. 85",
+        "FR_NAME": "Brockville Senior Citizens Inc. No. 85",
+        "ADDRESS_1": "15 Elm Avenue",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Brockville",
+        "POSTALCODE": "K6V2M3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.75198051999999,
+          43.89193331000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Caledon Seniors Centre",
+        "X": -79.752,
+        "Y": 43.8919,
+        "FID": 5821,
+        "OGF_ID": 127902489,
+        "MOH_PRO_ID": 14,
+        "EN_NAME": "Caledon Seniors Centre",
+        "FR_NAME": "Centre pour aînés Caledon",
+        "ADDRESS_1": "Rotarian Way",
+        "ADDRESS_2": "Rotary Place, 7",
+        "COMMUNITY": "Caledon",
+        "POSTALCODE": "L7E1Y2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.29492447,
+          43.81257252000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Carefirst Seniors and Community Services Association",
+        "X": -79.2949,
+        "Y": 43.8126,
+        "FID": 5822,
+        "OGF_ID": 127902490,
+        "MOH_PRO_ID": 15,
+        "EN_NAME": "Carefirst Seniors and Community Services Association",
+        "FR_NAME": "Carefirst Seniors and Community Service Association",
+        "ADDRESS_1": "300 Silver Star Boulevard",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M1V5P1",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39362818999999,
+          43.70796189000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Central Eglinton Community Centre Older Adult Program",
+        "X": -79.3936,
+        "Y": 43.708,
+        "FID": 5824,
+        "OGF_ID": 127902492,
+        "MOH_PRO_ID": 17,
+        "EN_NAME": "Central Eglinton Community Centre Older Adult Program",
+        "FR_NAME": "Central Eglinton Community Centre Older Adult Program",
+        "ADDRESS_1": "160 Eglinton Avenue East",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M4P3B5",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.71335998,
+          45.01996593000003,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Centre Charles-Emile-Claude, centre polyvalent des aines inc.",
+        "X": -74.7134,
+        "Y": 45.02,
+        "FID": 5825,
+        "OGF_ID": 127902493,
+        "MOH_PRO_ID": 18,
+        "EN_NAME": "Centre Charles-Emile-Claude, centre polyvalent des aines inc.",
+        "FR_NAME": "Centre Charles-Emile-Claude, centre polyvalent des aines inc.",
+        "ADDRESS_1": "146 Chevrier Avenue",
+        "ADDRESS_2": "Unit B",
+        "COMMUNITY": "Cornwall",
+        "POSTALCODE": "K6H1S1",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40717360000001,
+          43.74817000000003,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Circle of Care Services (Toronto) - Association of Jewish Seniors EPC",
+        "X": -79.4072,
+        "Y": 43.7482,
+        "FID": 5829,
+        "OGF_ID": 127902497,
+        "MOH_PRO_ID": 21,
+        "EN_NAME": "Circle of Care Services (Toronto) - Association of Jewish Seniors EPC",
+        "FR_NAME": "Circle of Care Services (Toronto) - Association of Jewish Seniors EPC",
+        "ADDRESS_1": "4211 Yonge Street",
+        "ADDRESS_2": "Suite 401",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M2P2A9",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7630309,
+          43.64269737,
+          0
+        ]
+      },
+      "properties": {
+        "name": "CANES Community Care - Villa Polonia Seniors Residence & Jasinski Activity Centre",
+        "X": -79.763,
+        "Y": 43.6427,
+        "FID": 5830,
+        "OGF_ID": 127902498,
+        "MOH_PRO_ID": 22,
+        "EN_NAME": "CANES Community Care - Villa Polonia Seniors Residence & Jasinski Activity Centre",
+        "FR_NAME": "CANES Community Care - Villa Polonia Seniors Residence & Jasinski Activity Centre",
+        "ADDRESS_1": "30 Polonia Avenue",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Brampton",
+        "POSTALCODE": "L6Y0K7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.68423334,
+          44.36115279000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "City of Barrie - Allandale 55+ Centre",
+        "X": -79.6842,
+        "Y": 44.3612,
+        "FID": 5831,
+        "OGF_ID": 127902499,
+        "MOH_PRO_ID": 23,
+        "EN_NAME": "City of Barrie - Allandale 55+ Centre",
+        "FR_NAME": "Ville de Barrie - Centre Allandale 55+",
+        "ADDRESS_1": "190 Bayview Drive",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Barrie",
+        "POSTALCODE": "L4N4Y8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.66558594,
+          44.39482169999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "City of Barrie - Parkview 55+ Centre",
+        "X": -79.6656,
+        "Y": 44.3948,
+        "FID": 5832,
+        "OGF_ID": 127902500,
+        "MOH_PRO_ID": 24,
+        "EN_NAME": "City of Barrie - Parkview 55+ Centre",
+        "FR_NAME": "Ville de Barrie - Centre Parkview 55+",
+        "ADDRESS_1": "189 Blake Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Barrie",
+        "POSTALCODE": "L4M1K5",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.38286388999998,
+          44.18791786999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "City of Belleville - Seniors 55+",
+        "X": -77.3829,
+        "Y": 44.1879,
+        "FID": 5833,
+        "OGF_ID": 127902501,
+        "MOH_PRO_ID": 25,
+        "EN_NAME": "City of Belleville - Seniors 55+",
+        "FR_NAME": "Ville de Belleville - Seniors 55+",
+        "ADDRESS_1": "265 Cannifton Road",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Belleville",
+        "POSTALCODE": "K8N4V8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.77017280999999,
+          43.67226397000003,
+          0
+        ]
+      },
+      "properties": {
+        "name": "City of Brampton - Flower City Seniors Centre",
+        "X": -79.7702,
+        "Y": 43.6723,
+        "FID": 5834,
+        "OGF_ID": 127902502,
+        "MOH_PRO_ID": 26,
+        "EN_NAME": "City of Brampton - Flower City Seniors Centre",
+        "FR_NAME": "Ville de Brampton - Centre pour aînés Flower City",
+        "ADDRESS_1": "8870 McLaughlin Road",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Brampton",
+        "POSTALCODE": "L6Y5T1",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.71742020000002,
+          43.71714378000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "City of Brampton - Knightsbridge",
+        "X": -79.7174,
+        "Y": 43.7171,
+        "FID": 5835,
+        "OGF_ID": 127902503,
+        "MOH_PRO_ID": 27,
+        "EN_NAME": "City of Brampton - Knightsbridge",
+        "FR_NAME": "Ville de Brampton - Knightsbridge",
+        "ADDRESS_1": "1 Knightsbridge Road",
+        "ADDRESS_2": "Unit A",
+        "COMMUNITY": "Brampton",
+        "POSTALCODE": "L6T4B7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.26967816,
+          43.56045623000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "City of Guelph - Evergreen Seniors Centre",
+        "X": -80.2697,
+        "Y": 43.5605,
+        "FID": 5841,
+        "OGF_ID": 127902509,
+        "MOH_PRO_ID": 33,
+        "EN_NAME": "City of Guelph - Evergreen Seniors Centre",
+        "FR_NAME": "Ville de Guelph - Centre pour aînés Evergreen",
+        "ADDRESS_1": "683 Woolwich Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Guelph",
+        "POSTALCODE": "N1H3Y8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.29237616,
+          43.52444012000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "City of Guelph - West End Community Centre",
+        "X": -80.2924,
+        "Y": 43.5244,
+        "FID": 5842,
+        "OGF_ID": 127902510,
+        "MOH_PRO_ID": 34,
+        "EN_NAME": "City of Guelph - West End Community Centre",
+        "FR_NAME": "Ville de Guelph - Centre communautaire West End",
+        "ADDRESS_1": "21 Imperial Road South",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Guelph",
+        "POSTALCODE": "N1K1X3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.82268142999999,
+          43.73091777999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "City of Brampton - Snelgrove",
+        "X": -79.8227,
+        "Y": 43.7309,
+        "FID": 5847,
+        "OGF_ID": 127902515,
+        "MOH_PRO_ID": 40,
+        "EN_NAME": "City of Brampton - Snelgrove",
+        "FR_NAME": "Ville de Brampton - Snelgrove",
+        "ADDRESS_1": "11692 Hurontario Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Brampton",
+        "POSTALCODE": "L7E1E2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.74239563999998,
+          44.35458283999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "City of Kawartha Lakes (Lindsay Older Adult Centre)",
+        "X": -78.7424,
+        "Y": 44.3546,
+        "FID": 5850,
+        "OGF_ID": 127902518,
+        "MOH_PRO_ID": 43,
+        "EN_NAME": "City of Kawartha Lakes (Lindsay Older Adult Centre)",
+        "FR_NAME": "Ville de Kawartha Lakes (Lindsay Older Adult Centre)",
+        "ADDRESS_1": "210 Kent Street West",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Kawartha Lakes",
+        "POSTALCODE": "K9V2Y8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.59870615,
+          43.62270767,
+          0
+        ]
+      },
+      "properties": {
+        "name": "City of Mississauga - Burnhamthorpe",
+        "X": -79.5987,
+        "Y": 43.6227,
+        "FID": 5857,
+        "OGF_ID": 127902525,
+        "MOH_PRO_ID": 50,
+        "EN_NAME": "City of Mississauga - Burnhamthorpe",
+        "FR_NAME": "Ville de Mississauga - Burnhamthorpe",
+        "ADDRESS_1": "1500 Gulleden Drive",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Mississauga",
+        "POSTALCODE": "L4X2T7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.65048306,
+          43.51166305000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "City of Mississauga - Clarkson",
+        "X": -79.6505,
+        "Y": 43.5117,
+        "FID": 5858,
+        "OGF_ID": 127902526,
+        "MOH_PRO_ID": 51,
+        "EN_NAME": "City of Mississauga - Clarkson",
+        "FR_NAME": "Ville de Mississauga - Clarkson",
+        "ADDRESS_1": "2475 Truscott Drive",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Mississauga",
+        "POSTALCODE": "L5J2B3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.63868627,
+          43.72347238999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "City of Mississauga - Malton",
+        "X": -79.6387,
+        "Y": 43.7235,
+        "FID": 5859,
+        "OGF_ID": 127902527,
+        "MOH_PRO_ID": 52,
+        "EN_NAME": "City of Mississauga - Malton",
+        "FR_NAME": "Ville de Mississauga - Malton",
+        "ADDRESS_1": "3540 Morning Star Drive",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Mississauga",
+        "POSTALCODE": "L4T1Y2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7556567,
+          43.58522485999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "City of Mississauga - Meadowvale",
+        "X": -79.7557,
+        "Y": 43.5852,
+        "FID": 5860,
+        "OGF_ID": 127902528,
+        "MOH_PRO_ID": 53,
+        "EN_NAME": "City of Mississauga - Meadowvale",
+        "FR_NAME": "Ville de Mississauga - Meadowvale",
+        "ADDRESS_1": "6655 Glen Erin Drive",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Mississauga",
+        "POSTALCODE": "L5N3L4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.57504973999998,
+          43.57865395999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "City of Mississauga - Mississauga Seniors Centre",
+        "X": -79.575,
+        "Y": 43.5787,
+        "FID": 5861,
+        "OGF_ID": 127902529,
+        "MOH_PRO_ID": 54,
+        "EN_NAME": "City of Mississauga - Mississauga Seniors Centre",
+        "FR_NAME": "Ville de Mississauga - Centre pour aînés de Mississauga",
+        "ADDRESS_1": "1389 Cawthra Road",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Mississauga",
+        "POSTALCODE": "L5G4L1",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.62380386,
+          43.59694136000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "City of Mississauga - Mississauga Valley",
+        "X": -79.6238,
+        "Y": 43.5969,
+        "FID": 5862,
+        "OGF_ID": 127902530,
+        "MOH_PRO_ID": 55,
+        "EN_NAME": "City of Mississauga - Mississauga Valley",
+        "FR_NAME": "Ville de Mississauga - Mississauga Valley",
+        "ADDRESS_1": "1275 Mississauga Valley Boulevard",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Mississauga",
+        "POSTALCODE": "L5A3R8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.68458477,
+          43.54250984999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "City of Mississauga - South Common",
+        "X": -79.6846,
+        "Y": 43.5425,
+        "FID": 5863,
+        "OGF_ID": 127902531,
+        "MOH_PRO_ID": 56,
+        "EN_NAME": "City of Mississauga - South Common",
+        "FR_NAME": "Ville de Mississauga - South Common",
+        "ADDRESS_1": "2233 South Millway",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Mississauga",
+        "POSTALCODE": "L5L3H7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.64320695999999,
+          43.59541526000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "City of Mississauga - Square One Older Adult Centre",
+        "X": -79.6432,
+        "Y": 43.5954,
+        "FID": 5864,
+        "OGF_ID": 127902532,
+        "MOH_PRO_ID": 57,
+        "EN_NAME": "City of Mississauga - Square One Older Adult Centre",
+        "FR_NAME": "Ville de Mississauga - Square One Older Adult Centre",
+        "ADDRESS_1": "100 Square One Boulevard",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Mississauga",
+        "POSTALCODE": "L5B2C9",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.65403542,
+          45.37885334999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "City of Ottawa - Heron Seniors' Centre",
+        "X": -75.654,
+        "Y": 45.3789,
+        "FID": 5865,
+        "OGF_ID": 127902533,
+        "MOH_PRO_ID": 58,
+        "EN_NAME": "City of Ottawa - Heron Seniors' Centre",
+        "FR_NAME": "Ville d'Ottawa - Centre pour aînés Heron",
+        "ADDRESS_1": "1480 Heron Road",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Ottawa",
+        "POSTALCODE": "K1V6A5",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.086767,
+          43.82681912999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "City of Pickering - South Pickering Seniors Centre",
+        "X": -79.0868,
+        "Y": 43.8268,
+        "FID": 5866,
+        "OGF_ID": 127902534,
+        "MOH_PRO_ID": 59,
+        "EN_NAME": "City of Pickering - South Pickering Seniors Centre",
+        "FR_NAME": "Ville de Pickering - Centre pour aînés du sud de Pickering",
+        "ADDRESS_1": "910 Liverpool Road",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Pickering",
+        "POSTALCODE": "L1W1S5",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.33119396,
+          46.507668,
+          0
+        ]
+      },
+      "properties": {
+        "name": "City of Sault Ste. Marie - Senior Services Drop-In Centre",
+        "X": -84.3312,
+        "Y": 46.5077,
+        "FID": 5868,
+        "OGF_ID": 127902536,
+        "MOH_PRO_ID": 61,
+        "EN_NAME": "City of Sault Ste. Marie - Senior Services Drop-In Centre",
+        "FR_NAME": "Ville de Sault Ste. Marie - Senior Services Drop-In Centre",
+        "ADDRESS_1": "619 Bay Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Sault Ste. Marie",
+        "POSTALCODE": "P6A5X5",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34581126,
+          46.52483760000003,
+          0
+        ]
+      },
+      "properties": {
+        "name": "City of Sault Ste. Marie - Steelton Senior Services Centre",
+        "X": -84.3458,
+        "Y": 46.5248,
+        "FID": 5869,
+        "OGF_ID": 127902537,
+        "MOH_PRO_ID": 62,
+        "EN_NAME": "City of Sault Ste. Marie - Steelton Senior Services Centre",
+        "FR_NAME": "Ville de Sault Ste. Marie - Steelton Senior Services Centre",
+        "ADDRESS_1": "235 Welllington Street West",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Sault Ste. Marie",
+        "POSTALCODE": "P6A1H6",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.35028899,
+          48.38013405000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "City of Thunder Bay - West Arthur Community Centre",
+        "X": -89.3503,
+        "Y": 48.3801,
+        "FID": 5871,
+        "OGF_ID": 127902539,
+        "MOH_PRO_ID": 64,
+        "EN_NAME": "City of Thunder Bay - West Arthur Community Centre",
+        "FR_NAME": "Ville de Thunder Bay - Centre communautaire de West Arthur",
+        "ADDRESS_1": "1914 Arthur Street West",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Thunder Bay",
+        "POSTALCODE": "P7K1C7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.32738463000001,
+          48.47504757,
+          0
+        ]
+      },
+      "properties": {
+        "name": "City of Timmins - H.R. Bielek Seniors Centre",
+        "X": -81.3274,
+        "Y": 48.475,
+        "FID": 5872,
+        "OGF_ID": 127902540,
+        "MOH_PRO_ID": 65,
+        "EN_NAME": "City of Timmins - H.R. Bielek Seniors Centre",
+        "FR_NAME": "Ville de Timmins - H.R. Centre pour aînés Bielek",
+        "ADDRESS_1": "272 3rd Avenue",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Timmins",
+        "POSTALCODE": "P4N1E3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.68760337999998,
+          43.91604755999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bowmanville Older Adult Association",
+        "X": -78.6876,
+        "Y": 43.916,
+        "FID": 5875,
+        "OGF_ID": 127902543,
+        "MOH_PRO_ID": 68,
+        "EN_NAME": "Bowmanville Older Adult Association",
+        "FR_NAME": "Bowmanville Older Adult Association",
+        "ADDRESS_1": "26 Beech Avenue",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Bowmanville",
+        "POSTALCODE": "L1C3A2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.19819686,
+          46.58305399000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Club 50 de Rayside Balfour",
+        "X": -81.1982,
+        "Y": 46.5831,
+        "FID": 5876,
+        "OGF_ID": 127902544,
+        "MOH_PRO_ID": 69,
+        "EN_NAME": "Club 50 de Rayside Balfour",
+        "FR_NAME": "Club 50 de Rayside Balfour",
+        "ADDRESS_1": "25 Main Street West",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Greater Sudbury",
+        "POSTALCODE": "P0M1L0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.11277303,
+          46.55208708000003,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Club Accueil Age d'Or Azilda",
+        "X": -81.1128,
+        "Y": 46.5521,
+        "FID": 5877,
+        "OGF_ID": 127902545,
+        "MOH_PRO_ID": 70,
+        "EN_NAME": "Club Accueil Age d'Or Azilda",
+        "FR_NAME": "Club Accueil Age d’Or Azilda",
+        "ADDRESS_1": "64 Notre Dame Street East",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Greater Sudbury",
+        "POSTALCODE": "P0M1B0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.67567677,
+          49.68670771000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Club Action Hearst (Atelier des Pionniers)",
+        "X": -83.6757,
+        "Y": 49.6867,
+        "FID": 5878,
+        "OGF_ID": 127902546,
+        "MOH_PRO_ID": 71,
+        "EN_NAME": "Club Action Hearst (Atelier des Pionniers)",
+        "FR_NAME": "Club Action Hearst (Atelier des Pionniers)",
+        "ADDRESS_1": "54 13th Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Hearst",
+        "POSTALCODE": "P0L1N0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.16018422,
+          43.97478270000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cobourg Seniors Activity Centre",
+        "X": -78.1602,
+        "Y": 43.9748,
+        "FID": 5880,
+        "OGF_ID": 127902548,
+        "MOH_PRO_ID": 73,
+        "EN_NAME": "Cobourg Seniors Activity Centre",
+        "FR_NAME": "Cobourg Seniors Activity Centre",
+        "ADDRESS_1": "750 D'Arcy Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Cobourg",
+        "POSTALCODE": "K9A0G1",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21274163,
+          44.50261049000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Collingwood Leisure Time Club Inc.",
+        "X": -80.2127,
+        "Y": 44.5026,
+        "FID": 5881,
+        "OGF_ID": 127902549,
+        "MOH_PRO_ID": 74,
+        "EN_NAME": "Collingwood Leisure Time Club Inc.",
+        "FR_NAME": "Collingwood Leisure Time Club Inc.",
+        "ADDRESS_1": "100 Minnesota Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Collingwood",
+        "POSTALCODE": "L9Y4R5",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.47107082,
+          43.72968089000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "COSTI Immigrant Services - North York Centre",
+        "X": -79.4711,
+        "Y": 43.7297,
+        "FID": 5884,
+        "OGF_ID": 127902552,
+        "MOH_PRO_ID": 77,
+        "EN_NAME": "COSTI Immigrant Services - North York Centre",
+        "FR_NAME": "COSTI, service aux immigrants - Centre de North York",
+        "ADDRESS_1": "Wilson Avenue",
+        "ADDRESS_2": "Suite 114, Sheridan Mall 1700",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M3L1B2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67204103,
+          45.38651185,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Council on Aging of Ottawa - English Programs",
+        "X": -75.672,
+        "Y": 45.3865,
+        "FID": 5885,
+        "OGF_ID": 127902553,
+        "MOH_PRO_ID": 78,
+        "EN_NAME": "Council on Aging of Ottawa - English Programs",
+        "FR_NAME": "Conseil sur le vieillissement d'Ottawa - Programmes anglophones",
+        "ADDRESS_1": "1247 Kilborn Place",
+        "ADDRESS_2": "Unit 101",
+        "COMMUNITY": "Ottawa",
+        "POSTALCODE": "K1H6K9",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.46847362000001,
+          43.78639499999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Crescent Town Club - Call-A-Service",
+        "X": -79.4685,
+        "Y": 43.7864,
+        "FID": 5886,
+        "OGF_ID": 127902554,
+        "MOH_PRO_ID": 79,
+        "EN_NAME": "Crescent Town Club - Call-A-Service",
+        "FR_NAME": "Crescent Town Club - Call-A-Service",
+        "ADDRESS_1": "2 The Market Place",
+        "ADDRESS_2": "Unit A",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M4C5M1",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.45483381,
+          43.67067638999997,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Davenport-Perth Neighbourhood & Community Health Centre",
+        "X": -79.4548,
+        "Y": 43.6707,
+        "FID": 5887,
+        "OGF_ID": 127902555,
+        "MOH_PRO_ID": 80,
+        "EN_NAME": "Davenport-Perth Neighbourhood & Community Health Centre",
+        "FR_NAME": "Davenport-Perth Neighbourhood & Community Health Centre",
+        "ADDRESS_1": "1900 Davenport Road",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M6N1B7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.35890318,
+          43.65623939000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dixon Hall",
+        "X": -79.3589,
+        "Y": 43.6562,
+        "FID": 5889,
+        "OGF_ID": 127902557,
+        "MOH_PRO_ID": 82,
+        "EN_NAME": "Dixon Hall",
+        "FR_NAME": "Dixon Hall",
+        "ADDRESS_1": "58 Sumach Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M5A3J7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.35890318,
+          43.65623939000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dixon Hall - Mandarin",
+        "X": -79.3589,
+        "Y": 43.6562,
+        "FID": 5890,
+        "OGF_ID": 127902558,
+        "MOH_PRO_ID": 83,
+        "EN_NAME": "Dixon Hall - Mandarin",
+        "FR_NAME": "Dixon Hall - Mandarin",
+        "ADDRESS_1": "58 Sumach Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M5A3J7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.37132668000001,
+          43.66389898999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dixon Hall - The Adult Enrichment Program",
+        "X": -79.3713,
+        "Y": 43.6639,
+        "FID": 5891,
+        "OGF_ID": 127902559,
+        "MOH_PRO_ID": 84,
+        "EN_NAME": "Dixon Hall - The Adult Enrichment Program",
+        "FR_NAME": "Dixon Hall - The Adult Enrichment Program",
+        "ADDRESS_1": "192 Carlton Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M5A2K8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.83547289999998,
+          49.77866317,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dryden Go Getters",
+        "X": -92.8355,
+        "Y": 49.7787,
+        "FID": 5892,
+        "OGF_ID": 127902560,
+        "MOH_PRO_ID": 85,
+        "EN_NAME": "Dryden Go Getters",
+        "FR_NAME": "Dryden Go Getters",
+        "ADDRESS_1": "84 St. Charles Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Dryden",
+        "POSTALCODE": "P8N1L3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.29417709999998,
+          46.26437283,
+          0
+        ]
+      },
+      "properties": {
+        "name": "East Ferris Golden Age Club",
+        "X": -79.2942,
+        "Y": 46.2644,
+        "FID": 5893,
+        "OGF_ID": 127902561,
+        "MOH_PRO_ID": 86,
+        "EN_NAME": "East Ferris Golden Age Club",
+        "FR_NAME": "Club de l’âge d’Or East Ferris",
+        "ADDRESS_1": "390 Highway 94",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Corbeil",
+        "POSTALCODE": "P0H1K0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.09591081,
+          45.53195121000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Eganville and District Seniors",
+        "X": -77.0959,
+        "Y": 45.532,
+        "FID": 5894,
+        "OGF_ID": 127902562,
+        "MOH_PRO_ID": 87,
+        "EN_NAME": "Eganville and District Seniors",
+        "FR_NAME": "Eganville and District Seniors",
+        "ADDRESS_1": "30 Bell Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Eganville",
+        "POSTALCODE": "K0J1T0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.54369054,
+          43.75199760000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Elspeth Heyworth Centre for Women (North York)",
+        "X": -79.5437,
+        "Y": 43.752,
+        "FID": 5895,
+        "OGF_ID": 127902563,
+        "MOH_PRO_ID": 88,
+        "EN_NAME": "Elspeth Heyworth Centre for Women (North York)",
+        "FR_NAME": "Elspeth Heyworth Centre for Women (North York)",
+        "ADDRESS_1": "2350 Finch Avenue West",
+        "ADDRESS_2": "Unit D",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M9M2C7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.78881781,
+          46.25114550000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Espanola Senior Citizens Club",
+        "X": -81.7888,
+        "Y": 46.2511,
+        "FID": 5896,
+        "OGF_ID": 127902564,
+        "MOH_PRO_ID": 89,
+        "EN_NAME": "Espanola Senior Citizens Club",
+        "FR_NAME": "Espanola Senior Citizens Club",
+        "ADDRESS_1": "799 Queensway",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Espanola",
+        "POSTALCODE": "P5E1R3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.28287995999999,
+          43.71781610000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Family Service Toronto - Illahee Community Connections",
+        "X": -79.2829,
+        "Y": 43.7178,
+        "FID": 5899,
+        "OGF_ID": 127902567,
+        "MOH_PRO_ID": 92,
+        "EN_NAME": "Family Service Toronto - Illahee Community Connections",
+        "FR_NAME": "Family Service Toronto - Illahee Community Connections",
+        "ADDRESS_1": "747 Warden Avenue",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M1L4A8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.02457107000001,
+          46.52455704,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Field Golden Age Club",
+        "X": -80.0246,
+        "Y": 46.5246,
+        "FID": 5900,
+        "OGF_ID": 127902568,
+        "MOH_PRO_ID": 93,
+        "EN_NAME": "Field Golden Age Club",
+        "FR_NAME": "Club de l’âge d’Or Field",
+        "ADDRESS_1": "65 Jarbeau Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Field",
+        "POSTALCODE": "P0H1M0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.45611281,
+          43.67662089000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "First Portuguese Canadian Cultural Centre",
+        "X": -79.4561,
+        "Y": 43.6766,
+        "FID": 5901,
+        "OGF_ID": 127902569,
+        "MOH_PRO_ID": 94,
+        "EN_NAME": "First Portuguese Canadian Cultural Centre",
+        "FR_NAME": "First Portuguese Canadian Cultural Centre",
+        "ADDRESS_1": "60 Caledonia Road",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M6E4S4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.53808303,
+          43.60373477,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Franklin Horner Community Centre",
+        "X": -79.5381,
+        "Y": 43.6037,
+        "FID": 5903,
+        "OGF_ID": 127902571,
+        "MOH_PRO_ID": 96,
+        "EN_NAME": "Franklin Horner Community Centre",
+        "FR_NAME": "Centre communautaire Franklin Horner",
+        "ADDRESS_1": "432 Horner Avenue",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M8W2B2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.48888762,
+          43.67018537999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "George Syme Seniors Centre of York",
+        "X": -79.4889,
+        "Y": 43.6702,
+        "FID": 5905,
+        "OGF_ID": 127902573,
+        "MOH_PRO_ID": 98,
+        "EN_NAME": "George Syme Seniors Centre of York",
+        "FR_NAME": "Centre pour aînés George Syme de York",
+        "ADDRESS_1": "33 Pritchard Avenue",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M6N1T4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.89119385,
+          43.64898776000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Halton Hills - Hillsview Active Living Centre - Georgetown",
+        "X": -79.8912,
+        "Y": 43.649,
+        "FID": 5906,
+        "OGF_ID": 127902574,
+        "MOH_PRO_ID": 99,
+        "EN_NAME": "Halton Hills - Hillsview Active Living Centre - Georgetown",
+        "FR_NAME": "Halton Hills - Centre de vie active Hillsview - Georgetown",
+        "ADDRESS_1": "318 Guelph Street",
+        "ADDRESS_2": "Unit 9",
+        "COMMUNITY": "Halton Hills",
+        "POSTALCODE": "L7G4B5",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.99362218000002,
+          44.69669884,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Georgian Shores Swinging Seniors",
+        "X": -79.9936,
+        "Y": 44.6967,
+        "FID": 5907,
+        "OGF_ID": 127902575,
+        "MOH_PRO_ID": 100,
+        "EN_NAME": "Georgian Shores Swinging Seniors",
+        "FR_NAME": "Georgian Shores Swinging Seniors",
+        "ADDRESS_1": "300 Balm Beach Road West",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Tiny",
+        "POSTALCODE": "L0L2J0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.60139931,
+          45.43764486000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Gloucester Senior Adults' Centre",
+        "X": -75.6014,
+        "Y": 45.4376,
+        "FID": 5908,
+        "OGF_ID": 127902576,
+        "MOH_PRO_ID": 101,
+        "EN_NAME": "Gloucester Senior Adults' Centre",
+        "FR_NAME": "Gloucester Senior Adults' Centre",
+        "ADDRESS_1": "2020 Ogilvie Road",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Ottawa",
+        "POSTALCODE": "K1J7N8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.71016833999998,
+          45.41363564999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Good Companions Seniors' Centre",
+        "X": -75.7102,
+        "Y": 45.4136,
+        "FID": 5909,
+        "OGF_ID": 127902577,
+        "MOH_PRO_ID": 102,
+        "EN_NAME": "Good Companions Seniors' Centre",
+        "FR_NAME": "Centre pour aînés Good Companions",
+        "ADDRESS_1": "670 Albert Street",
+        "ADDRESS_2": "Suite 19",
+        "COMMUNITY": "Ottawa",
+        "POSTALCODE": "K1R6L2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46401189,
+          45.91825661000003,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Gore Bay Elderly Persons Centre",
+        "X": -82.464,
+        "Y": 45.9183,
+        "FID": 5911,
+        "OGF_ID": 127902579,
+        "MOH_PRO_ID": 104,
+        "EN_NAME": "Gore Bay Elderly Persons Centre",
+        "FR_NAME": "Centre pour personnes - âgées de Gore Bay",
+        "ADDRESS_1": "70 Meredith Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Gore Bay",
+        "POSTALCODE": "P0P1H0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.39011298,
+          49.86059904000003,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Happy Go Lucky Seniors Club Vermillion Bay",
+        "X": -93.3901,
+        "Y": 49.8606,
+        "FID": 5912,
+        "OGF_ID": 127902580,
+        "MOH_PRO_ID": 105,
+        "EN_NAME": "Happy Go Lucky Seniors Club Vermillion Bay",
+        "FR_NAME": "Happy Go Lucky Seniors Club Vermillion Bay",
+        "ADDRESS_1": "23 Main Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Vermilion Bay",
+        "POSTALCODE": "P0V2V0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39707329,
+          43.63584258000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Harbourfront Community Centre",
+        "X": -79.3971,
+        "Y": 43.6358,
+        "FID": 5913,
+        "OGF_ID": 127902581,
+        "MOH_PRO_ID": 106,
+        "EN_NAME": "Harbourfront Community Centre",
+        "FR_NAME": "Centre communautaire de Harbourfront",
+        "ADDRESS_1": "627 Queen's Quay West",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M5V3G3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.29886496,
+          43.70214980000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Harmony Hall Centre for Seniors - Call-A-Service",
+        "X": -79.2989,
+        "Y": 43.7021,
+        "FID": 5914,
+        "OGF_ID": 127902582,
+        "MOH_PRO_ID": 107,
+        "EN_NAME": "Harmony Hall Centre for Seniors - Call-A-Service",
+        "FR_NAME": "Centre pour aînés Harmony Hall - Call-A-Service",
+        "ADDRESS_1": "2 Gower Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M4B1E2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.49978313,
+          43.7454216,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lumacare - Northwood Community Centre",
+        "X": -79.4998,
+        "Y": 43.7454,
+        "FID": 5915,
+        "OGF_ID": 127902583,
+        "MOH_PRO_ID": 108,
+        "EN_NAME": "Lumacare - Northwood Community Centre",
+        "FR_NAME": "Lumacare - Centre communautaire de Northwood",
+        "ADDRESS_1": "15 Clubhouse Court",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M3L2L7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.44516051,
+          43.7346881,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lumacare",
+        "X": -79.4452,
+        "Y": 43.7347,
+        "FID": 5916,
+        "OGF_ID": 127902584,
+        "MOH_PRO_ID": 109,
+        "EN_NAME": "Lumacare",
+        "FR_NAME": "Lumacare",
+        "ADDRESS_1": "497 Wilson Avenue",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M3H1V1",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.02505799000001,
+          43.64052394999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Halton Hills - Hillsview Active Living Centre - Acton",
+        "X": -80.0251,
+        "Y": 43.6405,
+        "FID": 5917,
+        "OGF_ID": 127902585,
+        "MOH_PRO_ID": 110,
+        "EN_NAME": "Halton Hills - Hillsview Active Living Centre - Acton",
+        "FR_NAME": "Halton Hills - Centre de vie active Hillsview - Acton",
+        "ADDRESS_1": "415 Queen Street East",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Acton",
+        "POSTALCODE": "L7J2N2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7413954,
+          43.65400857,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Holland Christian Homes",
+        "X": -79.7414,
+        "Y": 43.654,
+        "FID": 5918,
+        "OGF_ID": 127902586,
+        "MOH_PRO_ID": 111,
+        "EN_NAME": "Holland Christian Homes",
+        "FR_NAME": "Holland Christian Homes",
+        "ADDRESS_1": "7900 McLaughlin Road South",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Brampton",
+        "POSTALCODE": "L6Y5A7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.21252178,
+          45.32294978,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Huntsville Active Living Centre",
+        "X": -79.2125,
+        "Y": 45.3229,
+        "FID": 5919,
+        "OGF_ID": 127902587,
+        "MOH_PRO_ID": 112,
+        "EN_NAME": "Huntsville Active Living Centre",
+        "FR_NAME": "Centre de vie active Huntsville",
+        "ADDRESS_1": "20 Park Drive",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Huntsville",
+        "POSTALCODE": "P1H1P5",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.53000693000001,
+          43.64761868,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Islington Centre - Etobicoke Senior Citizens",
+        "X": -79.53,
+        "Y": 43.6476,
+        "FID": 5920,
+        "OGF_ID": 127902588,
+        "MOH_PRO_ID": 113,
+        "EN_NAME": "Islington Centre - Etobicoke Senior Citizens",
+        "FR_NAME": "Centre Islington - Etobicoke Senior Citizens",
+        "ADDRESS_1": "4968 Dundas Street West",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M9A1B7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.43012602,
+          49.41599503999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kapuskasing Golden Age Club d'Age d'Or",
+        "X": -82.4301,
+        "Y": 49.416,
+        "FID": 5922,
+        "OGF_ID": 127902590,
+        "MOH_PRO_ID": 115,
+        "EN_NAME": "Kapuskasing Golden Age Club d'Age d'Or",
+        "FR_NAME": "Golden Age Club d’Age d’Or de Kapuskasing",
+        "ADDRESS_1": "88 Riverside Drive",
+        "ADDRESS_2": "Golden Age Centre",
+        "COMMUNITY": "Kapuskasing",
+        "POSTALCODE": "P5N1B3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.22754501,
+          45.55799602000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kearney Elderly Persons Centre",
+        "X": -79.2275,
+        "Y": 45.558,
+        "FID": 5923,
+        "OGF_ID": 127902591,
+        "MOH_PRO_ID": 116,
+        "EN_NAME": "Kearney Elderly Persons Centre",
+        "FR_NAME": "Centres pour personnes âgées de Kearney",
+        "ADDRESS_1": "8 Main Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Kearney",
+        "POSTALCODE": "P0A1M0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.48645868999999,
+          49.76172564000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kenora District New Horizons Senior Centre",
+        "X": -94.4865,
+        "Y": 49.7617,
+        "FID": 5924,
+        "OGF_ID": 127902592,
+        "MOH_PRO_ID": 117,
+        "EN_NAME": "Kenora District New Horizons Senior Centre",
+        "FR_NAME": "Centre pour aînés New Horizons du district de Kenora",
+        "ADDRESS_1": "18 Mike Richards Way",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Kenora",
+        "POSTALCODE": "P9N1L2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4463752,
+          43.65780477999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Loyola Arrupe Centre for Seniors",
+        "X": -79.4464,
+        "Y": 43.6578,
+        "FID": 5927,
+        "OGF_ID": 127902595,
+        "MOH_PRO_ID": 120,
+        "EN_NAME": "Loyola Arrupe Centre for Seniors",
+        "FR_NAME": "Loyola Arrupe Centre for Seniors",
+        "ADDRESS_1": "55 Rankin Crescent",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M6P4E4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.20537174,
+          43.81844832000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Malvern Family Resource Centre - Seniors Centre",
+        "X": -79.2054,
+        "Y": 43.8184,
+        "FID": 5928,
+        "OGF_ID": 127902596,
+        "MOH_PRO_ID": 121,
+        "EN_NAME": "Malvern Family Resource Centre - Seniors Centre",
+        "FR_NAME": "Malvern Family Resource Centre - Centre pour aînés",
+        "ADDRESS_1": "90 Littles Road",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M1B5E2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.26335067,
+          43.88006342999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Markham Seniors Activity Centre",
+        "X": -79.2634,
+        "Y": 43.8801,
+        "FID": 5929,
+        "OGF_ID": 127902597,
+        "MOH_PRO_ID": 122,
+        "EN_NAME": "Markham Seniors Activity Centre",
+        "FR_NAME": "Markham Seniors Activity Centre",
+        "ADDRESS_1": "22 Water Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Markham",
+        "POSTALCODE": "L3P7P9",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.87225243,
+          43.51697254,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Milton Seniors Activity Centre",
+        "X": -79.8723,
+        "Y": 43.517,
+        "FID": 5930,
+        "OGF_ID": 127902598,
+        "MOH_PRO_ID": 123,
+        "EN_NAME": "Milton Seniors Activity Centre",
+        "FR_NAME": "Milton Seniors Activity Centre",
+        "ADDRESS_1": "500 Childs Drive",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Milton",
+        "POSTALCODE": "L9T5G2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.21524304000002,
+          43.73939761000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Momiji Health Care Society",
+        "X": -79.2152,
+        "Y": 43.7394,
+        "FID": 5931,
+        "OGF_ID": 127902599,
+        "MOH_PRO_ID": 124,
+        "EN_NAME": "Momiji Health Care Society",
+        "FR_NAME": "Momiji Health Care Society",
+        "ADDRESS_1": "3555 Kingston Road",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M1M3W4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.94922665,
+          49.71682100000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Municipality of Greenstone - Geraldton Site",
+        "X": -86.9492,
+        "Y": 49.7168,
+        "FID": 5933,
+        "OGF_ID": 127902601,
+        "MOH_PRO_ID": 126,
+        "EN_NAME": "Municipality of Greenstone - Geraldton Site",
+        "FR_NAME": "Municipalité de Greenstone - Site Geraldton",
+        "ADDRESS_1": "200 Wardrope Avenue East",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Geraldton",
+        "POSTALCODE": "P0T1M0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.52931252,
+          49.77940173,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Municipality of Greenstone - Longlac Site",
+        "X": -86.5293,
+        "Y": 49.7794,
+        "FID": 5934,
+        "OGF_ID": 127902602,
+        "MOH_PRO_ID": 127,
+        "EN_NAME": "Municipality of Greenstone - Longlac Site",
+        "FR_NAME": "Municipalité de Greenstone - Site Longlac",
+        "ADDRESS_1": "121 Indian Road",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Longlac",
+        "POSTALCODE": "P0T2A0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.70665354,
+          50.17718868000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nakina Sunrise Club",
+        "X": -86.7067,
+        "Y": 50.1772,
+        "FID": 5936,
+        "OGF_ID": 127902604,
+        "MOH_PRO_ID": 129,
+        "EN_NAME": "Nakina Sunrise Club",
+        "FR_NAME": "Nakina Sunrise Club",
+        "ADDRESS_1": "111 Kingsland Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Nakina",
+        "POSTALCODE": "P0T2H0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.28987306,
+          43.69106429999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Neighbourhood Link Support Services",
+        "X": -79.2899,
+        "Y": 43.6911,
+        "FID": 5937,
+        "OGF_ID": 127902605,
+        "MOH_PRO_ID": 130,
+        "EN_NAME": "Neighbourhood Link Support Services",
+        "FR_NAME": "Neighbourhood Link Support Services",
+        "ADDRESS_1": "3036 Danforth Avenue",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M4C1N2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.28987306,
+          43.69106429999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Neighbourhood Link Support Services/The Neighbourhood Group",
+        "X": -79.2899,
+        "Y": 43.6911,
+        "FID": 5938,
+        "OGF_ID": 127902606,
+        "MOH_PRO_ID": 131,
+        "EN_NAME": "Neighbourhood Link Support Services/The Neighbourhood Group",
+        "FR_NAME": "Neighbourhood Link Support Services/The Neighbourhood Group",
+        "ADDRESS_1": "3036 Danforth Avenue",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M4C1N2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.74527865000002,
+          45.32677524000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nepean Seniors Recreation Centre",
+        "X": -75.7453,
+        "Y": 45.3268,
+        "FID": 5939,
+        "OGF_ID": 127902607,
+        "MOH_PRO_ID": 132,
+        "EN_NAME": "Nepean Seniors Recreation Centre",
+        "FR_NAME": "Centre des loisirs pour les aînés de Nepean",
+        "ADDRESS_1": "1701 Woodroffe Avenue",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Ottawa",
+        "POSTALCODE": "K2G1W2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.45834674,
+          44.05909765,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Newmarket Seniors Meeting Place",
+        "X": -79.4583,
+        "Y": 44.0591,
+        "FID": 5940,
+        "OGF_ID": 127902608,
+        "MOH_PRO_ID": 133,
+        "EN_NAME": "Newmarket Seniors Meeting Place",
+        "FR_NAME": "Newmarket Seniors Meeting Place",
+        "ADDRESS_1": "474 Davis Drive",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Newmarket",
+        "POSTALCODE": "L3Y2P1",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.80935293,
+          46.57839210000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nickel Centre Seniors Club",
+        "X": -80.8094,
+        "Y": 46.5784,
+        "FID": 5941,
+        "OGF_ID": 127902609,
+        "MOH_PRO_ID": 134,
+        "EN_NAME": "Nickel Centre Seniors Club",
+        "FR_NAME": "Nickel Centre Seniors Club",
+        "ADDRESS_1": "20 Edison Road",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Greater Sudbury",
+        "POSTALCODE": "P0M1S0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.26432894999999,
+          49.01360511000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nipigon Silver Club",
+        "X": -88.2643,
+        "Y": 49.0136,
+        "FID": 5942,
+        "OGF_ID": 127902610,
+        "MOH_PRO_ID": 135,
+        "EN_NAME": "Nipigon Silver Club",
+        "FR_NAME": "Nipigon Silver Club",
+        "ADDRESS_1": "102 4th Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Nipigon",
+        "POSTALCODE": "P0T2J0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.46262546,
+          46.31186792999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "North Bay Golden Age Club",
+        "X": -79.4626,
+        "Y": 46.3119,
+        "FID": 5943,
+        "OGF_ID": 127902611,
+        "MOH_PRO_ID": 136,
+        "EN_NAME": "North Bay Golden Age Club",
+        "FR_NAME": "Club de l’âge d’Or North Bay",
+        "ADDRESS_1": "135 Worthington Street West",
+        "ADDRESS_2": null,
+        "COMMUNITY": "North Bay",
+        "POSTALCODE": "P1B8M6",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.94477289000001,
+          43.73097802000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "North Perth Seniors Centre",
+        "X": -80.9448,
+        "Y": 43.731,
+        "FID": 5944,
+        "OGF_ID": 127902612,
+        "MOH_PRO_ID": 137,
+        "EN_NAME": "North Perth Seniors Centre",
+        "FR_NAME": "Centre pour aînés de North Perth",
+        "ADDRESS_1": "565 Elizabeth Street East",
+        "ADDRESS_2": "Royal Canadian Legion",
+        "COMMUNITY": "Listowel",
+        "POSTALCODE": "N4W2R1",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.41746061000002,
+          43.78118931,
+          0
+        ]
+      },
+      "properties": {
+        "name": "North York Seniors Centre",
+        "X": -79.4175,
+        "Y": 43.7812,
+        "FID": 5945,
+        "OGF_ID": 127902613,
+        "MOH_PRO_ID": 138,
+        "EN_NAME": "North York Seniors Centre",
+        "FR_NAME": "North York Seniors Centre",
+        "ADDRESS_1": "21 Hendon Avenue",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M2M4G7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.41746061000002,
+          43.78118931,
+          0
+        ]
+      },
+      "properties": {
+        "name": "North York Seniors Centre - Multicultural Program 2",
+        "X": -79.4175,
+        "Y": 43.7812,
+        "FID": 5946,
+        "OGF_ID": 127902614,
+        "MOH_PRO_ID": 139,
+        "EN_NAME": "North York Seniors Centre - Multicultural Program 2",
+        "FR_NAME": "North York Seniors Centre - Programme multiculturel 2",
+        "ADDRESS_1": "21 Hendon Avenue",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M2M4G7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.99436208,
+          46.49030488000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Older Adult Centre Sudbury - Parkside Centre",
+        "X": -80.9944,
+        "Y": 46.4903,
+        "FID": 5947,
+        "OGF_ID": 127902615,
+        "MOH_PRO_ID": 140,
+        "EN_NAME": "Older Adult Centre Sudbury - Parkside Centre",
+        "FR_NAME": "Older Adult Centre Sudbury - Parkside Centre",
+        "ADDRESS_1": "140 Durham Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Greater Sudbury",
+        "POSTALCODE": "P3E3M7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.39922583,
+          46.62886507999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Onaping Falls Golden Age Club",
+        "X": -81.3992,
+        "Y": 46.6289,
+        "FID": 5948,
+        "OGF_ID": 127902616,
+        "MOH_PRO_ID": 141,
+        "EN_NAME": "Onaping Falls Golden Age Club",
+        "FR_NAME": "Club de l’âge d’Or Onaping Falls",
+        "ADDRESS_1": "109 Service Road",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Onaping",
+        "POSTALCODE": "P0M2R0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.99249998,
+          46.49109998000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "One Eleven Senior Citizens Centre",
+        "X": -80.9925,
+        "Y": 46.4911,
+        "FID": 5949,
+        "OGF_ID": 127902617,
+        "MOH_PRO_ID": 142,
+        "EN_NAME": "One Eleven Senior Citizens Centre",
+        "FR_NAME": "One Eleven Senior Citizens Centre",
+        "ADDRESS_1": "111 Larch Street",
+        "ADDRESS_2": "Suite 9",
+        "COMMUNITY": "Greater Sudbury",
+        "POSTALCODE": "P3E4T5",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.25749185999999,
+          43.81035781999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ontario Tamil Seniors - Call-a-Service",
+        "X": -79.2575,
+        "Y": 43.8104,
+        "FID": 5950,
+        "OGF_ID": 127902618,
+        "MOH_PRO_ID": 143,
+        "EN_NAME": "Ontario Tamil Seniors - Call-a-Service",
+        "FR_NAME": "Ontario Tamil Seniors - Call-a-Service",
+        "ADDRESS_1": "5200 Finch Avenue East",
+        "ADDRESS_2": "Unit 203",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M1S4Z2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.85118134,
+          43.94851105999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oshawa Senior Citizens Centre - Legends Branch",
+        "X": -78.8512,
+        "Y": 43.9485,
+        "FID": 5951,
+        "OGF_ID": 127902619,
+        "MOH_PRO_ID": 144,
+        "EN_NAME": "Oshawa Senior Citizens Centre - Legends Branch",
+        "FR_NAME": "Oshawa Senior Citizens Centre - Legends Branch",
+        "ADDRESS_1": "1661 Harmony Road North",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Oshawa",
+        "POSTALCODE": "L1H7K5",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.87013173999999,
+          43.92990166,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oshawa Senior Citizens Centre - Northview Branch",
+        "X": -78.8701,
+        "Y": 43.9299,
+        "FID": 5952,
+        "OGF_ID": 127902620,
+        "MOH_PRO_ID": 145,
+        "EN_NAME": "Oshawa Senior Citizens Centre - Northview Branch",
+        "FR_NAME": "Oshawa Senior Citizens Centre - Northview Branch",
+        "ADDRESS_1": "150 Beatrice Street East",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Oshawa",
+        "POSTALCODE": "L1G7T6",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.84478723000001,
+          43.86927745,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oshawa Senior Citizens Centres - Conant Branch",
+        "X": -78.8448,
+        "Y": 43.8693,
+        "FID": 5953,
+        "OGF_ID": 127902621,
+        "MOH_PRO_ID": 146,
+        "EN_NAME": "Oshawa Senior Citizens Centres - Conant Branch",
+        "FR_NAME": "Oshawa Senior Citizens Centres - Conant Branch",
+        "ADDRESS_1": "115 Grassmere Avenue",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Oshawa",
+        "POSTALCODE": "L1H3X7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.86343324000002,
+          43.89347884999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oshawa Senior Citizens Centres - John Street Branch",
+        "X": -78.8634,
+        "Y": 43.8935,
+        "FID": 5954,
+        "OGF_ID": 127902622,
+        "MOH_PRO_ID": 147,
+        "EN_NAME": "Oshawa Senior Citizens Centres - John Street Branch",
+        "FR_NAME": "Oshawa Senior Citizens Centres - John Street Branch",
+        "ADDRESS_1": "43 John Street West",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Oshawa",
+        "POSTALCODE": "L1H1W8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4461627,
+          43.63979028,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Parkdale Golden Age Foundation",
+        "X": -79.4462,
+        "Y": 43.6398,
+        "FID": 5955,
+        "OGF_ID": 127902623,
+        "MOH_PRO_ID": 148,
+        "EN_NAME": "Parkdale Golden Age Foundation",
+        "FR_NAME": "Parkdale Golden Age Foundation",
+        "ADDRESS_1": "27 Roncesvalles Avenue",
+        "ADDRESS_2": "Suite 401",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M6R2K4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.62010295,
+          48.75867194,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pioneer Centre",
+        "X": -91.6201,
+        "Y": 48.7587,
+        "FID": 5957,
+        "OGF_ID": 127902625,
+        "MOH_PRO_ID": 149,
+        "EN_NAME": "Pioneer Centre",
+        "FR_NAME": "Pioneer Centre",
+        "ADDRESS_1": "223 Burns Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Atikokan",
+        "POSTALCODE": "P0T1C0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.58061686,
+          48.37736543,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Rural 60 Plus",
+        "X": -89.5806,
+        "Y": 48.3774,
+        "FID": 5959,
+        "OGF_ID": 127902627,
+        "MOH_PRO_ID": 151,
+        "EN_NAME": "Rural 60 Plus",
+        "FR_NAME": "Rural 60 Plus",
+        "ADDRESS_1": "5 Pineview Road",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Kakabeka Falls",
+        "POSTALCODE": "P7K0G8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.29110226,
+          43.94746358999996,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ruth Clarke Activity Centre",
+        "X": -78.2911,
+        "Y": 43.9475,
+        "FID": 5960,
+        "OGF_ID": 127902628,
+        "MOH_PRO_ID": 152,
+        "EN_NAME": "Ruth Clarke Activity Centre",
+        "FR_NAME": "Ruth Clarke Activity Centre",
+        "ADDRESS_1": "81 Mill Street South",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Port Hope",
+        "POSTALCODE": "L1A2S8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.25822507,
+          44.62896295999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sauble Beach Community Centre",
+        "X": -81.2582,
+        "Y": 44.629,
+        "FID": 5962,
+        "OGF_ID": 127902630,
+        "MOH_PRO_ID": 154,
+        "EN_NAME": "Sauble Beach Community Centre",
+        "FR_NAME": "Centre communautaire de Sauble Beach",
+        "ADDRESS_1": "30 Community Centre Drive",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Sauble Beach",
+        "POSTALCODE": "N0H2G0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.22405574,
+          43.76094831,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Scarborough Centre for Healthy Communities",
+        "X": -79.2241,
+        "Y": 43.7609,
+        "FID": 5963,
+        "OGF_ID": 127902631,
+        "MOH_PRO_ID": 155,
+        "EN_NAME": "Scarborough Centre for Healthy Communities",
+        "FR_NAME": "Scarborough Centre for Healthy Communities",
+        "ADDRESS_1": "629 Markham Road",
+        "ADDRESS_2": "Unit 2",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M1M2A4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.72149648,
+          45.03619022999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Seaway Senior Citizens Club",
+        "X": -74.7215,
+        "Y": 45.0362,
+        "FID": 5964,
+        "OGF_ID": 127902632,
+        "MOH_PRO_ID": 156,
+        "EN_NAME": "Seaway Senior Citizens Club",
+        "FR_NAME": "Seaway Senior Citizens Club",
+        "ADDRESS_1": "1010 Guy Street",
+        "ADDRESS_2": "Suite 109",
+        "COMMUNITY": "Cornwall",
+        "POSTALCODE": "K6H7P3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.37132668000001,
+          43.66389898999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Second Mile Club - Four Branch",
+        "X": -79.3713,
+        "Y": 43.6639,
+        "FID": 5965,
+        "OGF_ID": 127902633,
+        "MOH_PRO_ID": 157,
+        "EN_NAME": "Second Mile Club - Four Branch",
+        "FR_NAME": "Second Mile Club - Four Branch",
+        "ADDRESS_1": "192 Carlton Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M5A2K8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40343489,
+          43.65819039000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Second Mile Club - Kensington Gardens Branch",
+        "X": -79.4034,
+        "Y": 43.6582,
+        "FID": 5966,
+        "OGF_ID": 127902634,
+        "MOH_PRO_ID": 158,
+        "EN_NAME": "Second Mile Club - Kensington Gardens Branch",
+        "FR_NAME": "Second Mile Club - Kensington Gardens Branch",
+        "ADDRESS_1": "25 Brunswick Avenue",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M5S2L9",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4046055,
+          43.70701639,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Second Mile Club - Orchard View Branch",
+        "X": -79.4046,
+        "Y": 43.707,
+        "FID": 5967,
+        "OGF_ID": 127902635,
+        "MOH_PRO_ID": 159,
+        "EN_NAME": "Second Mile Club - Orchard View Branch",
+        "FR_NAME": "Second Mile Club - Orchard View Branch",
+        "ADDRESS_1": "174 Orchard View Boulevard",
+        "ADDRESS_2": "North Toronto Memorial Arena",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M4R1C3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.30165746,
+          43.6920287,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Secord Elderly Persons Centre",
+        "X": -79.3017,
+        "Y": 43.692,
+        "FID": 5968,
+        "OGF_ID": 127902636,
+        "MOH_PRO_ID": 160,
+        "EN_NAME": "Secord Elderly Persons Centre",
+        "FR_NAME": "Centres pour personnes âgées de Secord",
+        "ADDRESS_1": "91 Barrington Avenue",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M4C4Y9",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40096518999998,
+          43.66687799,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Senior Adult Services in the Annex",
+        "X": -79.401,
+        "Y": 43.6669,
+        "FID": 5969,
+        "OGF_ID": 127902637,
+        "MOH_PRO_ID": 161,
+        "EN_NAME": "Senior Adult Services in the Annex",
+        "FR_NAME": "Senior Adult Services in the Annex",
+        "ADDRESS_1": "341 Bloor Street West",
+        "ADDRESS_2": "2nd Floor",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M5S1W8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.11317223999998,
+          45.82530816000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Senior Citizens Drop-In Craft and Activity Centre",
+        "X": -77.1132,
+        "Y": 45.8253,
+        "FID": 5970,
+        "OGF_ID": 127902638,
+        "MOH_PRO_ID": 162,
+        "EN_NAME": "Senior Citizens Drop-In Craft and Activity Centre",
+        "FR_NAME": "Senior Citizens Drop-In Craft and Activity Centre",
+        "ADDRESS_1": "42 Renfrew Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Pembroke",
+        "POSTALCODE": "K8A7T6",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.52233451,
+          44.22436791000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Seniors Association Kingston Region",
+        "X": -76.5223,
+        "Y": 44.2244,
+        "FID": 5971,
+        "OGF_ID": 127902639,
+        "MOH_PRO_ID": 163,
+        "EN_NAME": "Seniors Association Kingston Region",
+        "FR_NAME": "Seniors Association Kingston Region",
+        "ADDRESS_1": "56 Francis Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Kingston",
+        "POSTALCODE": "K7M1L7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.37573522,
+          44.28337894,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Seniors Citizens Association of Peterborough - Mapleridge Recreation Centre",
+        "X": -78.3757,
+        "Y": 44.2834,
+        "FID": 5972,
+        "OGF_ID": 127902640,
+        "MOH_PRO_ID": 164,
+        "EN_NAME": "Seniors Citizens Association of Peterborough - Mapleridge Recreation Centre",
+        "FR_NAME": "Seniors Citizens Association of Peterborough - Mapleridge Recreation Centre",
+        "ADDRESS_1": "1085 Brealey Drive",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Peterborough",
+        "POSTALCODE": "K9K0C1",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.41496293,
+          47.84116954999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Service de sante de Chapleau Health Services",
+        "X": -83.415,
+        "Y": 47.8412,
+        "FID": 5973,
+        "OGF_ID": 127902641,
+        "MOH_PRO_ID": 165,
+        "EN_NAME": "Service de sante de Chapleau Health Services",
+        "FR_NAME": "Services de santé de Chapleau Health Services",
+        "ADDRESS_1": "6 Broomhead Road",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Chapleau",
+        "POSTALCODE": "P0M1K0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2702476,
+          45.90069737000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Silver Threads Seniors Club of Petawawa",
+        "X": -77.2702,
+        "Y": 45.9007,
+        "FID": 5974,
+        "OGF_ID": 127902642,
+        "MOH_PRO_ID": 166,
+        "EN_NAME": "Silver Threads Seniors Club of Petawawa",
+        "FR_NAME": "Silver Threads Seniors Club of Petawawa",
+        "ADDRESS_1": "1163 Victoria Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Petawawa",
+        "POSTALCODE": "K8H3J1",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.91860028,
+          50.09811497999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sioux Area Seniors Activity Centre",
+        "X": -91.9186,
+        "Y": 50.0981,
+        "FID": 5976,
+        "OGF_ID": 127902644,
+        "MOH_PRO_ID": 168,
+        "EN_NAME": "Sioux Area Seniors Activity Centre",
+        "FR_NAME": "Sioux Area Seniors Activity Centre",
+        "ADDRESS_1": "66 Front Street",
+        "ADDRESS_2": "Unit D",
+        "COMMUNITY": "Sioux Lookout",
+        "POSTALCODE": "P8T1A8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.39241485999999,
+          48.60778208000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sister Betty Kennedy Centre - Fort Frances",
+        "X": -93.3924,
+        "Y": 48.6078,
+        "FID": 5977,
+        "OGF_ID": 127902645,
+        "MOH_PRO_ID": 169,
+        "EN_NAME": "Sister Betty Kennedy Centre - Fort Frances",
+        "FR_NAME": "Sister Betty Kennedy Centre - Fort Frances",
+        "ADDRESS_1": "401 Nelson Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Fort Frances",
+        "POSTALCODE": "P9A1B3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.74902602,
+          46.66701801999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Skead Senior Citizens Club",
+        "X": -80.749,
+        "Y": 46.667,
+        "FID": 5978,
+        "OGF_ID": 127902646,
+        "MOH_PRO_ID": 170,
+        "EN_NAME": "Skead Senior Citizens Club",
+        "FR_NAME": "Skead Senior Citizens Club",
+        "ADDRESS_1": "5 Bell Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Skead",
+        "POSTALCODE": "P0M2Y0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70990704,
+          45.40902915000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Somerset West Community Health Centre",
+        "X": -75.7099,
+        "Y": 45.409,
+        "FID": 5979,
+        "OGF_ID": 127902647,
+        "MOH_PRO_ID": 171,
+        "EN_NAME": "Somerset West Community Health Centre",
+        "FR_NAME": "Centre de santé communautaire de Somerset-Ouest",
+        "ADDRESS_1": "55 Eccles Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Ottawa",
+        "POSTALCODE": "K1R6S3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.37619419,
+          45.84130035999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "South River Friendly Circle Senior Citizens",
+        "X": -79.3762,
+        "Y": 45.8413,
+        "FID": 5981,
+        "OGF_ID": 127902649,
+        "MOH_PRO_ID": 173,
+        "EN_NAME": "South River Friendly Circle Senior Citizens",
+        "FR_NAME": "South River Friendly Circle Senior Citizens",
+        "ADDRESS_1": "10 Isabella Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "South River",
+        "POSTALCODE": "P0A1X0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.47241002000001,
+          43.69115188999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "St. Clair West Services for Seniors",
+        "X": -79.4724,
+        "Y": 43.6912,
+        "FID": 5983,
+        "OGF_ID": 127902651,
+        "MOH_PRO_ID": 175,
+        "EN_NAME": "St. Clair West Services for Seniors",
+        "FR_NAME": "St. Clair West Services for Seniors",
+        "ADDRESS_1": "2562 Eglinton Avenue West",
+        "ADDRESS_2": "Suite 202",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M6M1T4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.31677956999998,
+          43.79634181000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "St. Paul's L'Amoreaux Centre",
+        "X": -79.3168,
+        "Y": 43.7963,
+        "FID": 5985,
+        "OGF_ID": 127902653,
+        "MOH_PRO_ID": 177,
+        "EN_NAME": "St. Paul's L'Amoreaux Centre",
+        "FR_NAME": "St. Paul’s L’Amoreaux Centre",
+        "ADDRESS_1": "3333 Finch Avenue East",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M1W2R9",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40317179,
+          43.65642619,
+          0
+        ]
+      },
+      "properties": {
+        "name": "St. Stephen's Community House",
+        "X": -79.4032,
+        "Y": 43.6564,
+        "FID": 5986,
+        "OGF_ID": 127902654,
+        "MOH_PRO_ID": 178,
+        "EN_NAME": "St. Stephen's Community House",
+        "FR_NAME": "St. Stephen’s Community House",
+        "ADDRESS_1": "260 Augusta Avenue",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M5T3A9",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.92566662,
+          46.36049992,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sturgeon Falls Golden Age Club",
+        "X": -79.9257,
+        "Y": 46.3605,
+        "FID": 5989,
+        "OGF_ID": 127902657,
+        "MOH_PRO_ID": 181,
+        "EN_NAME": "Sturgeon Falls Golden Age Club",
+        "FR_NAME": "Club de l’âge d’Or Sturgeon Falls",
+        "ADDRESS_1": "109 Third Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "West Nipissing",
+        "POSTALCODE": "P2B3A7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9262837,
+          49.11101589999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sunrise Echoes (Sioux Narrows) Seniors Club",
+        "X": -93.9263,
+        "Y": 49.111,
+        "FID": 5990,
+        "OGF_ID": 127902658,
+        "MOH_PRO_ID": 182,
+        "EN_NAME": "Sunrise Echoes (Sioux Narrows) Seniors Club",
+        "FR_NAME": "Sunrise Echoes (Sioux Narrows) Seniors Club",
+        "ADDRESS_1": "Highway 71",
+        "ADDRESS_2": "Unit 5655",
+        "COMMUNITY": "Sioux Narrows",
+        "POSTALCODE": "P0X1N0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38394909,
+          43.67049729000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sunshine Centre for Seniors - St. James Town EPC",
+        "X": -79.3839,
+        "Y": 43.6705,
+        "FID": 5991,
+        "OGF_ID": 127902659,
+        "MOH_PRO_ID": 183,
+        "EN_NAME": "Sunshine Centre for Seniors - St. James Town EPC",
+        "FR_NAME": "Sunshine Centre for Seniors - St. James Town EPC",
+        "ADDRESS_1": "117 Bloor Street East",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M4Y2N7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.35843692999998,
+          44.3037169,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sutton Senior Citizens Club",
+        "X": -79.3584,
+        "Y": 44.3037,
+        "FID": 5992,
+        "OGF_ID": 127902660,
+        "MOH_PRO_ID": 184,
+        "EN_NAME": "Sutton Senior Citizens Club",
+        "FR_NAME": "Sutton Senior Citizens Club",
+        "ADDRESS_1": "1 Market Square Crescent",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Georgina",
+        "POSTALCODE": "L0E1R0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.09936205,
+          48.78541296000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Terrace Bay Superior Seniors",
+        "X": -87.0994,
+        "Y": 48.7854,
+        "FID": 5994,
+        "OGF_ID": 127902662,
+        "MOH_PRO_ID": 186,
+        "EN_NAME": "Terrace Bay Superior Seniors",
+        "FR_NAME": "Terrace Bay Superior Seniors",
+        "ADDRESS_1": "13 Selkirk Avenue",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Terrace Bay",
+        "POSTALCODE": "P0T2W0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68635463,
+          45.39875614999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Glebe Centre Inc.",
+        "X": -75.6864,
+        "Y": 45.3988,
+        "FID": 5996,
+        "OGF_ID": 127902664,
+        "MOH_PRO_ID": 189,
+        "EN_NAME": "The Glebe Centre Inc.",
+        "FR_NAME": "The Glebe Centre Inc.",
+        "ADDRESS_1": "950 Bank Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Ottawa",
+        "POSTALCODE": "K1S5G6",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.71076453000002,
+          43.74532649000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The MacKay Centre for Seniors",
+        "X": -81.7108,
+        "Y": 43.7453,
+        "FID": 5997,
+        "OGF_ID": 127902665,
+        "MOH_PRO_ID": 190,
+        "EN_NAME": "The MacKay Centre for Seniors",
+        "FR_NAME": "The MacKay Centre for Seniors",
+        "ADDRESS_1": "10 Nelson Street East",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Goderich",
+        "POSTALCODE": "N7A1R6",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38112479000002,
+          43.73449429999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Ontario Community Centre for the Deaf",
+        "X": -79.3811,
+        "Y": 43.7345,
+        "FID": 5998,
+        "OGF_ID": 127902666,
+        "MOH_PRO_ID": 191,
+        "EN_NAME": "The Ontario Community Centre for the Deaf",
+        "FR_NAME": "The Ontario Community Centre for the Deaf",
+        "ADDRESS_1": "2395 Bayview Avenue",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M2L1A2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39013058999998,
+          45.77162234999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Sundridge Happy Gang",
+        "X": -79.3901,
+        "Y": 45.7716,
+        "FID": 5999,
+        "OGF_ID": 127902667,
+        "MOH_PRO_ID": 192,
+        "EN_NAME": "The Sundridge Happy Gang",
+        "FR_NAME": "The Sundridge Happy Gang",
+        "ADDRESS_1": "110 Main Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Sundridge",
+        "POSTALCODE": "P0A1Z0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.30345567,
+          43.74396911000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Wexford Residence Inc.",
+        "X": -79.3035,
+        "Y": 43.744,
+        "FID": 6000,
+        "OGF_ID": 127902668,
+        "MOH_PRO_ID": 193,
+        "EN_NAME": "The Wexford Residence Inc.",
+        "FR_NAME": "The Wexford Residence Inc.",
+        "ADDRESS_1": "1860 Lawrence Avenue East",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M1R5B1",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.23763397000002,
+          48.44941687000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Thunder Bay, City of - Thunder Bay 55 Plus Centre",
+        "X": -89.2376,
+        "Y": 48.4494,
+        "FID": 6002,
+        "OGF_ID": 127902670,
+        "MOH_PRO_ID": 195,
+        "EN_NAME": "Thunder Bay, City of - Thunder Bay 55 Plus Centre",
+        "FR_NAME": "Ville de Thunder Bay - Centre Thunder Bay 55 Plus",
+        "ADDRESS_1": "700 River Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Thunder Bay",
+        "POSTALCODE": "P7A3S6",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.36613808,
+          43.7131213,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toronto Finnish Canadian Seniors Centre-Suomi Koti",
+        "X": -79.3661,
+        "Y": 43.7131,
+        "FID": 6004,
+        "OGF_ID": 127902672,
+        "MOH_PRO_ID": 197,
+        "EN_NAME": "Toronto Finnish Canadian Seniors Centre-Suomi Koti",
+        "FR_NAME": "Toronto Finnish Canadian Seniors Centre-Suomi Koti",
+        "ADDRESS_1": "795 Eglinton Avenue East",
+        "ADDRESS_2": "Suite 101",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M4G4E4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.37429739999999,
+          43.70234135,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Township of Centre Wellington Victoria Park Centre",
+        "X": -80.3743,
+        "Y": 43.7023,
+        "FID": 6008,
+        "OGF_ID": 127902676,
+        "MOH_PRO_ID": 201,
+        "EN_NAME": "Township of Centre Wellington Victoria Park Centre",
+        "FR_NAME": "Township of Centre Wellington Victoria Park Centre",
+        "ADDRESS_1": "150 Albert Street West",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Fergus",
+        "POSTALCODE": "N1M1X2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.18500692,
+          48.77246193999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Township of Morley - Stratton Seniors Friendship Centre",
+        "X": -94.185,
+        "Y": 48.7725,
+        "FID": 6009,
+        "OGF_ID": 127902677,
+        "MOH_PRO_ID": 202,
+        "EN_NAME": "Township of Morley - Stratton Seniors Friendship Centre",
+        "FR_NAME": "Canton de Morley - Stratton Seniors Friendship Centre",
+        "ADDRESS_1": "Ontario 617",
+        "ADDRESS_2": "Fire #7",
+        "COMMUNITY": "Stratton",
+        "POSTALCODE": "P0W1N0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.48423022,
+          43.64906568000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ukrainian Canadian Social Services (Toronto Inc.)",
+        "X": -79.4842,
+        "Y": 43.6491,
+        "FID": 6010,
+        "OGF_ID": 127902678,
+        "MOH_PRO_ID": 203,
+        "EN_NAME": "Ukrainian Canadian Social Services (Toronto Inc.)",
+        "FR_NAME": "Ukrainian Canadian Social Services (Toronto Inc.)",
+        "ADDRESS_1": "2445 Bloor Street West",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M6S1P7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.31474098,
+          43.86348673000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Unionville Communty Centre for Seniors",
+        "X": -79.3147,
+        "Y": 43.8635,
+        "FID": 6011,
+        "OGF_ID": 127902679,
+        "MOH_PRO_ID": 204,
+        "EN_NAME": "Unionville Communty Centre for Seniors",
+        "FR_NAME": "Centre communautaire pour aînés d'Unionville",
+        "ADDRESS_1": "17 Anna Russell Way",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Markham",
+        "POSTALCODE": "L3R3X3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39147428999999,
+          43.65205178000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "University Settlement Elderly Persons Centre",
+        "X": -79.3915,
+        "Y": 43.6521,
+        "FID": 6012,
+        "OGF_ID": 127902680,
+        "MOH_PRO_ID": 205,
+        "EN_NAME": "University Settlement Elderly Persons Centre",
+        "FR_NAME": "University Settlement Elderly Persons Centre",
+        "ADDRESS_1": "23 Grange Road",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M5T1C3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.45648160999998,
+          43.71063219000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Villa Colombo Homes for the Aged",
+        "X": -79.4565,
+        "Y": 43.7106,
+        "FID": 6013,
+        "OGF_ID": 127902681,
+        "MOH_PRO_ID": 206,
+        "EN_NAME": "Villa Colombo Homes for the Aged",
+        "FR_NAME": "Villa Colombo Homes for the Aged",
+        "ADDRESS_1": "40 Playfair Avenue",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M6B2P9",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.27812335,
+          43.7039524,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Warden Woods Community Centre",
+        "X": -79.2781,
+        "Y": 43.704,
+        "FID": 6014,
+        "OGF_ID": 127902682,
+        "MOH_PRO_ID": 207,
+        "EN_NAME": "Warden Woods Community Centre",
+        "FR_NAME": "Centre communautaire Warden Woods",
+        "ADDRESS_1": "74 Firvalley Court",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M1L1N9",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.77050809,
+          47.99469010000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Wawa, Municipality of - The Wawa Goose Club",
+        "X": -84.7705,
+        "Y": 47.9947,
+        "FID": 6015,
+        "OGF_ID": 127902683,
+        "MOH_PRO_ID": 208,
+        "EN_NAME": "Wawa, Municipality of - The Wawa Goose Club",
+        "FR_NAME": "Municipalité de Wawa – The Wawa Goose Club",
+        "ADDRESS_1": "63 Broadway Avenue",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Wawa",
+        "POSTALCODE": "P0S1K0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4211127,
+          43.64964817999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "West Neighbourhood House",
+        "X": -79.4211,
+        "Y": 43.6496,
+        "FID": 6016,
+        "OGF_ID": 127902684,
+        "MOH_PRO_ID": 209,
+        "EN_NAME": "West Neighbourhood House",
+        "FR_NAME": "West Neighbourhood House",
+        "ADDRESS_1": "248 Ossington Avenue",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M6J3A2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4211127,
+          43.64964817999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "West Neighbourhood House - Outreach",
+        "X": -79.4211,
+        "Y": 43.6496,
+        "FID": 6017,
+        "OGF_ID": 127902685,
+        "MOH_PRO_ID": 210,
+        "EN_NAME": "West Neighbourhood House - Outreach",
+        "FR_NAME": "West Neighbourhood House - Outreach",
+        "ADDRESS_1": "248 Ossington Avenue",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M6J3A2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.43627770000002,
+          43.64196927999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "West Neighbourhood House - Parkdale",
+        "X": -79.4363,
+        "Y": 43.642,
+        "FID": 6018,
+        "OGF_ID": 127902686,
+        "MOH_PRO_ID": 211,
+        "EN_NAME": "West Neighbourhood House - Parkdale",
+        "FR_NAME": "West Neighbourhood House - Parkdale",
+        "ADDRESS_1": "20 West Lodge Avenue",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M6K2T4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.28466525999998,
+          43.7012714,
+          0
+        ]
+      },
+      "properties": {
+        "name": "West Scarborough Neighbourhood Community Centre",
+        "X": -79.2847,
+        "Y": 43.7013,
+        "FID": 6019,
+        "OGF_ID": 127902687,
+        "MOH_PRO_ID": 212,
+        "EN_NAME": "West Scarborough Neighbourhood Community Centre",
+        "FR_NAME": "West Scarborough Neighbourhood Community Centre",
+        "ADDRESS_1": "313 Pharmacy Avenue",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M1L3E7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.53831404,
+          43.494597,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Wing 404 RCAFA (Waterloo) - Rotary Adult Centre",
+        "X": -80.5383,
+        "Y": 43.4946,
+        "FID": 6020,
+        "OGF_ID": 127902688,
+        "MOH_PRO_ID": 213,
+        "EN_NAME": "Wing 404 RCAFA (Waterloo) - Rotary Adult Centre",
+        "FR_NAME": "Wing 404 RCAFA (Waterloo) - Rotary Adult Centre",
+        "ADDRESS_1": "510 Dutton Drive",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Waterloo",
+        "POSTALCODE": "N2J4A8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.33704827000001,
+          43.66189349000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woodgreen Community Centre - English programs",
+        "X": -79.337,
+        "Y": 43.6619,
+        "FID": 6021,
+        "OGF_ID": 127902689,
+        "MOH_PRO_ID": 214,
+        "EN_NAME": "Woodgreen Community Centre - English programs",
+        "FR_NAME": "Centre communautaire Woodgreen - Programmes anglophones",
+        "ADDRESS_1": "1070 Queen Street East",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M4M3M4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.35752468000001,
+          43.67524599,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woodgreen Community Centre - Outreach programs",
+        "X": -79.3575,
+        "Y": 43.6752,
+        "FID": 6022,
+        "OGF_ID": 127902690,
+        "MOH_PRO_ID": 215,
+        "EN_NAME": "Woodgreen Community Centre - Outreach programs",
+        "FR_NAME": "Centre communautaire Woodgreen - Programmes de sensibilisation",
+        "ADDRESS_1": "721 Broadview Avenue",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M4K3J9",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.34483946999998,
+          43.66534168999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woodgreen Community Centre -Jack McCreadie",
+        "X": -79.3448,
+        "Y": 43.6653,
+        "FID": 6023,
+        "OGF_ID": 127902691,
+        "MOH_PRO_ID": 216,
+        "EN_NAME": "Woodgreen Community Centre -Jack McCreadie",
+        "FR_NAME": "Centre communautaire Woodgreen - Jack McCreadie",
+        "ADDRESS_1": "444 Logan Avenue",
+        "ADDRESS_2": "Unit 101",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M4M2P1",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.35752468000001,
+          43.67524599,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woodgreen Community Centre - Chinese Programs",
+        "X": -79.3575,
+        "Y": 43.6752,
+        "FID": 6024,
+        "OGF_ID": 127902692,
+        "MOH_PRO_ID": 217,
+        "EN_NAME": "Woodgreen Community Centre - Chinese Programs",
+        "FR_NAME": "Centre communautaire Woodgreen - Programmes chinois",
+        "ADDRESS_1": "721 Broadview Avenue",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M4K3J9",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.32665476999999,
+          43.69012478999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woodgreen Communtiy Centre (Community Care East York) EPC",
+        "X": -79.3267,
+        "Y": 43.6901,
+        "FID": 9001,
+        "OGF_ID": 127902693,
+        "MOH_PRO_ID": 218,
+        "EN_NAME": "Woodgreen Communtiy Centre (Community Care East York) EPC",
+        "FR_NAME": "Woodgreen Communtiy Centre (Community Care East York) EPC",
+        "ADDRESS_1": "840 Coxwell Avenue",
+        "ADDRESS_2": "Suite 303",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M4C5T2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.56519585,
+          43.59605152000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woolwich Elderly Persons Centre",
+        "X": -80.5652,
+        "Y": 43.5961,
+        "FID": 9002,
+        "OGF_ID": 127902694,
+        "MOH_PRO_ID": 219,
+        "EN_NAME": "Woolwich Elderly Persons Centre",
+        "FR_NAME": "Centres pour personnes -âgées Woolwich",
+        "ADDRESS_1": "24 Snider Avenue South",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Elmira",
+        "POSTALCODE": "N3B2Z6",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.51616793,
+          43.70053989000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "York West - Centro Esperanza Elderly Persons Centre",
+        "X": -79.5162,
+        "Y": 43.7005,
+        "FID": 9003,
+        "OGF_ID": 127902695,
+        "MOH_PRO_ID": 220,
+        "EN_NAME": "York West - Centro Esperanza Elderly Persons Centre",
+        "FR_NAME": "York West - Centro Esperanza Elderly Persons Centre",
+        "ADDRESS_1": "1901 Weston Road",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M9N3P5",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.51616793,
+          43.70053989000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "York West Active Living Centre",
+        "X": -79.5162,
+        "Y": 43.7005,
+        "FID": 9004,
+        "OGF_ID": 127902696,
+        "MOH_PRO_ID": 221,
+        "EN_NAME": "York West Active Living Centre",
+        "FR_NAME": "York West Active Living Centre",
+        "ADDRESS_1": "1901 Weston Road",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M9N3P5",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.44801771,
+          43.69121919000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "York-Fairbank Elderly Persons Centre",
+        "X": -79.448,
+        "Y": 43.6912,
+        "FID": 9005,
+        "OGF_ID": 127902697,
+        "MOH_PRO_ID": 222,
+        "EN_NAME": "York-Fairbank Elderly Persons Centre",
+        "FR_NAME": "York – Centre pour personnes âgées Fairbank",
+        "ADDRESS_1": "2213 Dufferin Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M6E3S2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.36010862000002,
+          46.22334311999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Callander Elderly Persons Centre (Royal Canadian Legion Branch 445)",
+        "X": -79.3601,
+        "Y": 46.2233,
+        "FID": 9009,
+        "OGF_ID": 127902701,
+        "MOH_PRO_ID": 226,
+        "EN_NAME": "Callander Elderly Persons Centre (Royal Canadian Legion Branch 445)",
+        "FR_NAME": "Callander Elderly Persons Centre (Royal Canadian Legion Branch 445)",
+        "ADDRESS_1": "345 Landsdowne Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Callander",
+        "POSTALCODE": "P0H1H0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.94328708,
+          46.65058800999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Centre Club D'Age D'Or de la Vallee",
+        "X": -80.9433,
+        "Y": 46.6506,
+        "FID": 9010,
+        "OGF_ID": 127902702,
+        "MOH_PRO_ID": 227,
+        "EN_NAME": "Centre Club D'Age D'Or de la Vallee",
+        "FR_NAME": "Centre Club D’Age D’Or de la Vallée",
+        "ADDRESS_1": "26 Cote Boulevard",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Greater Sudbury",
+        "POSTALCODE": "P3P1X5",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.69137924,
+          45.43082895999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Centre de services Guigues",
+        "X": -75.6914,
+        "Y": 45.4308,
+        "FID": 9011,
+        "OGF_ID": 127902703,
+        "MOH_PRO_ID": 228,
+        "EN_NAME": "Centre de services Guigues",
+        "FR_NAME": "Centre de services Guigues",
+        "ADDRESS_1": "159 Murray Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Ottawa",
+        "POSTALCODE": "K1N5M7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.12600715,
+          45.82256776000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Centre Lajoie des aines francophones de Pembroke",
+        "X": -77.126,
+        "Y": 45.8226,
+        "FID": 9012,
+        "OGF_ID": 127902704,
+        "MOH_PRO_ID": 229,
+        "EN_NAME": "Centre Lajoie des aines francophones de Pembroke",
+        "FR_NAME": "Centre Lajoie des aînés francophones de Pembroke",
+        "ADDRESS_1": "303 James Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Pembroke",
+        "POSTALCODE": "K8A4V1",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66303153,
+          45.43282096000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Centre Pauline-Charron",
+        "X": -75.663,
+        "Y": 45.4328,
+        "FID": 9013,
+        "OGF_ID": 127902705,
+        "MOH_PRO_ID": 230,
+        "EN_NAME": "Centre Pauline-Charron",
+        "FR_NAME": "Centre Pauline-Charron",
+        "ADDRESS_1": "164 rue Jeanne Mance",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Ottawa",
+        "POSTALCODE": "K1L6M3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.26455046,
+          43.76919860999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "City of Toronto, Parks Forestry & Recreation East District - Birkdale Community Centre",
+        "X": -79.2646,
+        "Y": 43.7692,
+        "FID": 9014,
+        "OGF_ID": 127902706,
+        "MOH_PRO_ID": 231,
+        "EN_NAME": "City of Toronto, Parks Forestry & Recreation East District - Birkdale Community Centre",
+        "FR_NAME": "Ville de Toronto, Parks Forestry & Recreation East District - Centre communautaire Birkdale",
+        "ADDRESS_1": "1299 Ellesmere Road",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M1P2Y2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.37415318,
+          43.65551809,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Good Neighbours' Club",
+        "X": -79.3742,
+        "Y": 43.6555,
+        "FID": 9015,
+        "OGF_ID": 127902707,
+        "MOH_PRO_ID": 232,
+        "EN_NAME": "Good Neighbours' Club",
+        "FR_NAME": "Good Neighbours' Club",
+        "ADDRESS_1": "170 Jarvis Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M5B2B7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.31904897000001,
+          43.72543269999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Latvian Senior Citizens Association",
+        "X": -79.319,
+        "Y": 43.7254,
+        "FID": 9016,
+        "OGF_ID": 127902708,
+        "MOH_PRO_ID": 233,
+        "EN_NAME": "Latvian Senior Citizens Association",
+        "FR_NAME": "Latvian Senior Citizens Association",
+        "ADDRESS_1": "4 Credit Union Drive",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M4A2N3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.36252778,
+          43.64943278999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Les Centres d'Accueil Heritage - Centre des Pionniers",
+        "X": -79.3625,
+        "Y": 43.6494,
+        "FID": 9017,
+        "OGF_ID": 127902709,
+        "MOH_PRO_ID": 234,
+        "EN_NAME": "Les Centres d'Accueil Heritage - Centre des Pionniers",
+        "FR_NAME": "Les Centres d'Accueil Heritage - Centre des Pionniers",
+        "ADDRESS_1": "33 Hahn Place",
+        "ADDRESS_2": "Suite 206",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M5A4G2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67155783000001,
+          45.38656494999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Council on Aging of Ottawa - French Programs",
+        "X": -75.6716,
+        "Y": 45.3866,
+        "FID": 9019,
+        "OGF_ID": 127902711,
+        "MOH_PRO_ID": 236,
+        "EN_NAME": "Council on Aging of Ottawa - French Programs",
+        "FR_NAME": "Conseil sur le vieillissement d'Ottawa - Programmes francophones",
+        "ADDRESS_1": "101-1247",
+        "ADDRESS_2": "Unit 101, Kilborn Place",
+        "COMMUNITY": "Ottawa",
+        "POSTALCODE": "K1H6K9",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.83031079,
+          49.12497998999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Manitouwadge Golden Age Centre",
+        "X": -85.8303,
+        "Y": 49.125,
+        "FID": 9020,
+        "OGF_ID": 127902712,
+        "MOH_PRO_ID": 237,
+        "EN_NAME": "Manitouwadge Golden Age Centre",
+        "FR_NAME": "Centre de l’âge d’Or Manitouwadge",
+        "ADDRESS_1": "4 Manitou Road West",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Manitouwadge",
+        "POSTALCODE": "P0T2C0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.70156841,
+          46.31463307,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mattawa Senior Citizens Club",
+        "X": -78.7016,
+        "Y": 46.3146,
+        "FID": 9021,
+        "OGF_ID": 127902713,
+        "MOH_PRO_ID": 238,
+        "EN_NAME": "Mattawa Senior Citizens Club",
+        "FR_NAME": "Mattawa Senior Citizens Club",
+        "ADDRESS_1": "464 Poplar Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Mattawa",
+        "POSTALCODE": "P0H1V0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.52339798,
+          45.46585987000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mouvement d'implication francophone d'Orleans",
+        "X": -75.5234,
+        "Y": 45.4659,
+        "FID": 9023,
+        "OGF_ID": 127902715,
+        "MOH_PRO_ID": 240,
+        "EN_NAME": "Mouvement d'implication francophone d'Orleans",
+        "FR_NAME": "Mouvement d’implication francophone d’Orleans",
+        "ADDRESS_1": "6600 CarriÃ¨re Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Ottawa",
+        "POSTALCODE": "K1C1J4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.67678560000002,
+          45.48708908000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Opeongo Seniors Centre",
+        "X": -77.6768,
+        "Y": 45.4871,
+        "FID": 9024,
+        "OGF_ID": 127902716,
+        "MOH_PRO_ID": 241,
+        "EN_NAME": "Opeongo Seniors Centre",
+        "FR_NAME": "Centre pour aînés Opeongo",
+        "ADDRESS_1": "19 Stafford Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Barry's Bay",
+        "POSTALCODE": "K0J1B0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.10145853999998,
+          43.9163365,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Orangeville & District Senior Citizens' Centre",
+        "X": -80.1015,
+        "Y": 43.9163,
+        "FID": 9025,
+        "OGF_ID": 127902717,
+        "MOH_PRO_ID": 242,
+        "EN_NAME": "Orangeville & District Senior Citizens' Centre",
+        "FR_NAME": "Orangeville & District Senior Citizens' Centre",
+        "ADDRESS_1": "26 Bythia Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Orangeville",
+        "POSTALCODE": "L9W2S1",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.24693476999998,
+          44.89812204,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Perth and District Senior Craft Fellowship",
+        "X": -76.2469,
+        "Y": 44.8981,
+        "FID": 9026,
+        "OGF_ID": 127902718,
+        "MOH_PRO_ID": 243,
+        "EN_NAME": "Perth and District Senior Craft Fellowship",
+        "FR_NAME": "Perth and District Senior Craft Fellowship",
+        "ADDRESS_1": "125 Gore Street East",
+        "ADDRESS_2": "McMartin House",
+        "COMMUNITY": "Perth",
+        "POSTALCODE": "K7H1J6",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.56853362,
+          48.72258070000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Rainy River Senior Activity Depot Drop-In Centre",
+        "X": -94.5685,
+        "Y": 48.7226,
+        "FID": 9029,
+        "OGF_ID": 127902721,
+        "MOH_PRO_ID": 246,
+        "EN_NAME": "Rainy River Senior Activity Depot Drop-In Centre",
+        "FR_NAME": "Rainy River Senior Activity Depot Drop-In Centre",
+        "ADDRESS_1": "201 Atwood Avenue",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Rainy River",
+        "POSTALCODE": "P0W1L0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.19798066000001,
+          46.58031557999997,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Rayside-Balfour Seniors Craft Shop",
+        "X": -81.198,
+        "Y": 46.5803,
+        "FID": 9030,
+        "OGF_ID": 127902722,
+        "MOH_PRO_ID": 247,
+        "EN_NAME": "Rayside-Balfour Seniors Craft Shop",
+        "FR_NAME": "Rayside-Balfour Seniors Craft Shop",
+        "ADDRESS_1": "3506 Errington Avenue",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Greater Sudbury",
+        "POSTALCODE": "P0M1L0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6453587,
+          46.38389538000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Renaissance Seniors' Centre",
+        "X": -82.6454,
+        "Y": 46.3839,
+        "FID": 9031,
+        "OGF_ID": 127902723,
+        "MOH_PRO_ID": 248,
+        "EN_NAME": "Renaissance Seniors' Centre",
+        "FR_NAME": "Centre pour aînés Renaissance",
+        "ADDRESS_1": "2 Veteran's Way",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Elliot Lake",
+        "POSTALCODE": "P5A1Z6",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.50479527000002,
+          45.42809115999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Rendez-vous des aines francophones d'Ottawa",
+        "X": -75.5048,
+        "Y": 45.4281,
+        "FID": 9032,
+        "OGF_ID": 127902724,
+        "MOH_PRO_ID": 249,
+        "EN_NAME": "Rendez-vous des aines francophones d'Ottawa",
+        "FR_NAME": "Rendez-vous des aînés francophones d'Ottawa",
+        "ADDRESS_1": "3349 Navan Road",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Ottawa",
+        "POSTALCODE": "K4B1H9",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68132692999998,
+          45.43463455999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Retraite en Action",
+        "X": -75.6813,
+        "Y": 45.4346,
+        "FID": 9033,
+        "OGF_ID": 127902725,
+        "MOH_PRO_ID": 250,
+        "EN_NAME": "Retraite en Action",
+        "FR_NAME": "Retraite en Action",
+        "ADDRESS_1": "40 Cobourg Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Ottawa",
+        "POSTALCODE": "K1N8Z6",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.43832342000002,
+          43.87371791999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Richmond Hill, Town of - McConaghy Centre",
+        "X": -79.4383,
+        "Y": 43.8737,
+        "FID": 9034,
+        "OGF_ID": 127902726,
+        "MOH_PRO_ID": 251,
+        "EN_NAME": "Richmond Hill, Town of - McConaghy Centre",
+        "FR_NAME": "Ville de Richmond Hill - McConaghy Centre",
+        "ADDRESS_1": "10100 Yonge Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Richmond Hill",
+        "POSTALCODE": "L4C1T8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4288729,
+          43.66158647999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sistering - A Women's Place",
+        "X": -79.4289,
+        "Y": 43.6616,
+        "FID": 9035,
+        "OGF_ID": 127902727,
+        "MOH_PRO_ID": 252,
+        "EN_NAME": "Sistering - A Women's Place",
+        "FR_NAME": "Sistering - A Women's Place",
+        "ADDRESS_1": "962 Bloor Street West",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M6H1L6",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.31276407,
+          43.70560450000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "St. Clair O'Connor Community Inc.",
+        "X": -79.3128,
+        "Y": 43.7056,
+        "FID": 9036,
+        "OGF_ID": 127902728,
+        "MOH_PRO_ID": 253,
+        "EN_NAME": "St. Clair O'Connor Community Inc.",
+        "FR_NAME": "St. Clair O'Connor Community Inc.",
+        "ADDRESS_1": "2701 Saint Clair Avenue East",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M4B1M5",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.30147347,
+          43.78748470999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Stephen Leacock Community Centre",
+        "X": -79.3015,
+        "Y": 43.7875,
+        "FID": 9037,
+        "OGF_ID": 127902729,
+        "MOH_PRO_ID": 254,
+        "EN_NAME": "Stephen Leacock Community Centre",
+        "FR_NAME": "Centre communautaire Stephen Leacock",
+        "ADDRESS_1": "2520 Birchmount Road",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M1T2N5",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.14574133,
+          46.43849006000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Walden Elderly Persons Centre - City of Greater Sudbury",
+        "X": -81.1457,
+        "Y": 46.4385,
+        "FID": 9039,
+        "OGF_ID": 127902731,
+        "MOH_PRO_ID": 256,
+        "EN_NAME": "Walden Elderly Persons Centre - City of Greater Sudbury",
+        "FR_NAME": "Centre pour personnes âgées Walden – Ville du Grand Sudbury",
+        "ADDRESS_1": "15 Kin Drive",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Greater Sudbury",
+        "POSTALCODE": "P3Y1M9",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.52118962000002,
+          44.70507364,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Walker House",
+        "X": -75.5212,
+        "Y": 44.7051,
+        "FID": 9040,
+        "OGF_ID": 127902732,
+        "MOH_PRO_ID": 257,
+        "EN_NAME": "Walker House",
+        "FR_NAME": "Walker House",
+        "ADDRESS_1": "623 King Street West",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Prescott",
+        "POSTALCODE": "K0E1T0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.93867986,
+          43.87254454000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Whitby Seniors' Activity Centre",
+        "X": -78.9387,
+        "Y": 43.8725,
+        "FID": 9044,
+        "OGF_ID": 127902736,
+        "MOH_PRO_ID": 261,
+        "EN_NAME": "Whitby Seniors' Activity Centre",
+        "FR_NAME": "Whitby Seniors’ Activity Centre",
+        "ADDRESS_1": "801 Brock Street South",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Whitby",
+        "POSTALCODE": "L1N4L4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.49334321999999,
+          43.67149648,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Access Alliance Multicultural Health and Community Services",
+        "X": -79.4933,
+        "Y": 43.6715,
+        "FID": 9045,
+        "OGF_ID": 127902737,
+        "MOH_PRO_ID": 262,
+        "EN_NAME": "Access Alliance Multicultural Health and Community Services",
+        "FR_NAME": "Access Alliance Multicultural Health and Community Services",
+        "ADDRESS_1": "761 Jane Street",
+        "ADDRESS_2": "2nd Floor",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M9N2R9",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.35302756,
+          45.44129383000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Arnprior Regional Health Seniors Active Living Centre",
+        "X": -76.353,
+        "Y": 45.4413,
+        "FID": 9046,
+        "OGF_ID": 127902738,
+        "MOH_PRO_ID": 263,
+        "EN_NAME": "Arnprior Regional Health Seniors Active Living Centre",
+        "FR_NAME": "Arnprior Regional Health Seniors Active Living Centre",
+        "ADDRESS_1": "350 John Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Arnprior",
+        "POSTALCODE": "K7S2P6",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.33053687,
+          43.71772499999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Better Living Health and Community Services Overland Club",
+        "X": -79.3305,
+        "Y": 43.7177,
+        "FID": 9047,
+        "OGF_ID": 127902739,
+        "MOH_PRO_ID": 264,
+        "EN_NAME": "Better Living Health and Community Services Overland Club",
+        "FR_NAME": "Better Living Health and Community Services Overland Club",
+        "ADDRESS_1": "5 Deauville Lane",
+        "ADDRESS_2": "Flemingdon Park",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M3C0J8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.75198051999999,
+          43.89193331000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Caledon Seniors Centre",
+        "X": -79.752,
+        "Y": 43.8919,
+        "FID": 9048,
+        "OGF_ID": 127902740,
+        "MOH_PRO_ID": 265,
+        "EN_NAME": "Caledon Seniors Centre",
+        "FR_NAME": "Centre pour aînés Caledon",
+        "ADDRESS_1": "Rotarian Way",
+        "ADDRESS_2": "Rotary Place, 7",
+        "COMMUNITY": "Caledon",
+        "POSTALCODE": "L7E1Y2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.29492447,
+          43.81257252000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Carefirst Seniors and Community Services Association - Scarborough Civic Centre",
+        "X": -79.2949,
+        "Y": 43.8126,
+        "FID": 9049,
+        "OGF_ID": 127902741,
+        "MOH_PRO_ID": 266,
+        "EN_NAME": "Carefirst Seniors and Community Services Association - Scarborough Civic Centre",
+        "FR_NAME": "Carefirst Seniors and Community Services Association - Centre municipal de Scarborough",
+        "ADDRESS_1": "300 Silver Star Boulevard",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M1V0G2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.55433474999998,
+          43.55382001000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Community Care Concepts of Wellesley",
+        "X": -80.5543,
+        "Y": 43.5538,
+        "FID": 9050,
+        "OGF_ID": 127902742,
+        "MOH_PRO_ID": 267,
+        "EN_NAME": "Community Care Concepts of Wellesley",
+        "FR_NAME": "Community Care Concepts of Wellesley",
+        "ADDRESS_1": "929 Arthur Street South",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Elmira",
+        "POSTALCODE": "N3B2Z2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.41484612,
+          45.55499059999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Community Resource Centre (Killaloe) Inc.",
+        "X": -77.4148,
+        "Y": 45.555,
+        "FID": 9051,
+        "OGF_ID": 127902743,
+        "MOH_PRO_ID": 268,
+        "EN_NAME": "Community Resource Centre (Killaloe) Inc.",
+        "FR_NAME": "Community Resource Centre (Killaloe) Inc.",
+        "ADDRESS_1": "15 Lake Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Killaloe",
+        "POSTALCODE": "K0J2A0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.29928047999998,
+          45.05239522999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "District Municipality of Muskoka - WISE Active Living Centre",
+        "X": -79.2993,
+        "Y": 45.0524,
+        "FID": 9052,
+        "OGF_ID": 127902744,
+        "MOH_PRO_ID": 269,
+        "EN_NAME": "District Municipality of Muskoka - WISE Active Living Centre",
+        "FR_NAME": "Municipalité de district de Muskoka – Centre de vie active WISE",
+        "ADDRESS_1": "70 Pine Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Bracebridge",
+        "POSTALCODE": "P1L1N3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.37858278,
+          43.66038649000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Family Service Toronto",
+        "X": -79.3786,
+        "Y": 43.6604,
+        "FID": 9053,
+        "OGF_ID": 127902745,
+        "MOH_PRO_ID": 270,
+        "EN_NAME": "Family Service Toronto",
+        "FR_NAME": "Family Service Toronto",
+        "ADDRESS_1": "355 Church Street",
+        "ADDRESS_2": "(+ Gerrard)",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M5B1Z8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.68380977,
+          45.47159541999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Golden Age Activity Centre -Renfrew and Area Seniors' Home Support",
+        "X": -76.6838,
+        "Y": 45.4716,
+        "FID": 9054,
+        "OGF_ID": 127902746,
+        "MOH_PRO_ID": 271,
+        "EN_NAME": "Golden Age Activity Centre -Renfrew and Area Seniors' Home Support",
+        "FR_NAME": "Centre d’activité d’âge d’or – Renfrew and Area Seniors’ Home Support",
+        "ADDRESS_1": "212 Raglan Street South",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Renfrew",
+        "POSTALCODE": "K7V4H3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.71016833999998,
+          45.41363564999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Good Companions Seniors' Centre - Seniors Without Walls",
+        "X": -75.7102,
+        "Y": 45.4136,
+        "FID": 9055,
+        "OGF_ID": 127902747,
+        "MOH_PRO_ID": 272,
+        "EN_NAME": "Good Companions Seniors' Centre - Seniors Without Walls",
+        "FR_NAME": "Centre pour aînés Good Companions - Seniors Without Walls",
+        "ADDRESS_1": "670 Albert Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Ottawa",
+        "POSTALCODE": "K1R6L2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.52939785,
+          43.85763421000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Human Endeavour Inc",
+        "X": -79.5294,
+        "Y": 43.8576,
+        "FID": 9056,
+        "OGF_ID": 127902748,
+        "MOH_PRO_ID": 273,
+        "EN_NAME": "Human Endeavour Inc",
+        "FR_NAME": "Human Endeavour Inc",
+        "ADDRESS_1": "439 Glenkindie Avenue",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Vaughan",
+        "POSTALCODE": "L6A2A2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.97159328,
+          46.52355329,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Le Club Amical du Nouveau Sudbury",
+        "X": -80.9716,
+        "Y": 46.5236,
+        "FID": 9057,
+        "OGF_ID": 127902749,
+        "MOH_PRO_ID": 274,
+        "EN_NAME": "Le Club Amical du Nouveau Sudbury",
+        "FR_NAME": "Le Club Amical du Nouveau Sudbury",
+        "ADDRESS_1": "553 Lavoie Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Greater Sudbury",
+        "POSTALCODE": "P3A2B4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96569326000001,
+          44.24013320000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lennox & Addington Seniors Outreach Services Inc.",
+        "X": -76.9657,
+        "Y": 44.2401,
+        "FID": 9058,
+        "OGF_ID": 127902750,
+        "MOH_PRO_ID": 275,
+        "EN_NAME": "Lennox & Addington Seniors Outreach Services Inc.",
+        "FR_NAME": "Lennox & Addington Seniors Outreach Services Inc.",
+        "ADDRESS_1": "Richmond Park Drive",
+        "ADDRESS_2": "55 Plus Activity Centre, 12",
+        "COMMUNITY": "Greater Napanee",
+        "POSTALCODE": "K7R2Z5",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.20537174,
+          43.81844832000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Malvern Family Resource Centre - Neilson Rd Program",
+        "X": -79.2054,
+        "Y": 43.8184,
+        "FID": 9059,
+        "OGF_ID": 127902751,
+        "MOH_PRO_ID": 276,
+        "EN_NAME": "Malvern Family Resource Centre - Neilson Rd Program",
+        "FR_NAME": "Malvern Family Resource Centre - Neilson Rd Program",
+        "ADDRESS_1": "90 Littles Road",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M1B5E2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.17982068,
+          45.2319314,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mills Community Support Corporation (Mississippi Mills)",
+        "X": -76.1798,
+        "Y": 45.2319,
+        "FID": 9060,
+        "OGF_ID": 127902752,
+        "MOH_PRO_ID": 277,
+        "EN_NAME": "Mills Community Support Corporation (Mississippi Mills)",
+        "FR_NAME": "Mills Community Support Corporation (Mississippi Mills)",
+        "ADDRESS_1": "67 Industrial Drive",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Mississippi Mills",
+        "POSTALCODE": "K0A1A0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.86343324000002,
+          43.89347884999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oshawa Senior Citizens Centres - North Squared",
+        "X": -78.8634,
+        "Y": 43.8935,
+        "FID": 9061,
+        "OGF_ID": 127902753,
+        "MOH_PRO_ID": 278,
+        "EN_NAME": "Oshawa Senior Citizens Centres - North Squared",
+        "FR_NAME": "Oshawa Senior Citizens Centres - North Squared",
+        "ADDRESS_1": "43 John Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Oshawa",
+        "POSTALCODE": "L1H1W8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.72697105,
+          45.40211675000003,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ottawa West Community Support",
+        "X": -75.727,
+        "Y": 45.4021,
+        "FID": 9062,
+        "OGF_ID": 127902754,
+        "MOH_PRO_ID": 279,
+        "EN_NAME": "Ottawa West Community Support",
+        "FR_NAME": "Service communautaire d'Ottawa-Ouest",
+        "ADDRESS_1": "1137 Wellington Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Ottawa",
+        "POSTALCODE": "K1Y2Y8",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.63626796,
+          43.59180465999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Peel Senior Link",
+        "X": -79.6363,
+        "Y": 43.5918,
+        "FID": 9063,
+        "OGF_ID": 127902755,
+        "MOH_PRO_ID": 280,
+        "EN_NAME": "Peel Senior Link",
+        "FR_NAME": "Peel Senior Link",
+        "ADDRESS_1": "50 Burnhamthorpe Avenue West",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Mississauga",
+        "POSTALCODE": "L5B3C2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.57219665,
+          43.71933579000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Rexdale Community Health Centre",
+        "X": -79.5722,
+        "Y": 43.7193,
+        "FID": 9064,
+        "OGF_ID": 127902756,
+        "MOH_PRO_ID": 281,
+        "EN_NAME": "Rexdale Community Health Centre",
+        "FR_NAME": "Centre de santé communautaire de Rexdale",
+        "ADDRESS_1": "8 Taber Road",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M9W3A4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.52233451,
+          44.22436791000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Seniors Association Kingston Region",
+        "X": -76.5223,
+        "Y": 44.2244,
+        "FID": 9065,
+        "OGF_ID": 127902757,
+        "MOH_PRO_ID": 282,
+        "EN_NAME": "Seniors Association Kingston Region",
+        "FR_NAME": "Seniors Association Kingston Region",
+        "ADDRESS_1": "56 Francis Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Kingston",
+        "POSTALCODE": "K7M1L7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.59662875000001,
+          44.40484023999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Southern Frontenac Community Services Corporation",
+        "X": -76.5966,
+        "Y": 44.4048,
+        "FID": 9066,
+        "OGF_ID": 127902758,
+        "MOH_PRO_ID": 283,
+        "EN_NAME": "Southern Frontenac Community Services Corporation",
+        "FR_NAME": "Southern Frontenac Community Services Corporation",
+        "ADDRESS_1": "4295 Stage Coach Road",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Sydenham",
+        "POSTALCODE": "K0H2T0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39182489,
+          43.69746029000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "SPRINT Senior Care - Mobile programs",
+        "X": -79.3918,
+        "Y": 43.6975,
+        "FID": 9067,
+        "OGF_ID": 127902759,
+        "MOH_PRO_ID": 284,
+        "EN_NAME": "SPRINT Senior Care - Mobile programs",
+        "FR_NAME": "SPRINT Senior Care - Mobile programs",
+        "ADDRESS_1": "140 Merton Street",
+        "ADDRESS_2": "2nd Floor",
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M4S1A1",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.65310507,
+          43.61639797,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The City of Mississauga - Frank McKechnie CC",
+        "X": -79.6531,
+        "Y": 43.6164,
+        "FID": 9070,
+        "OGF_ID": 127902762,
+        "MOH_PRO_ID": 287,
+        "EN_NAME": "The City of Mississauga - Frank McKechnie CC",
+        "FR_NAME": "Ville de Mississauga - Frank McKechnie CC",
+        "ADDRESS_1": "310 Bristol Road East",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Mississauga",
+        "POSTALCODE": "L4Z3V5",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8955824,
+          45.32191822999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The City of Ottawa - Kanata Seniors Ctr",
+        "X": -75.8956,
+        "Y": 45.3219,
+        "FID": 9071,
+        "OGF_ID": 127902763,
+        "MOH_PRO_ID": 288,
+        "EN_NAME": "The City of Ottawa - Kanata Seniors Ctr",
+        "FR_NAME": "Ville d'Ottawa - Centre pour aînés Kanata",
+        "ADDRESS_1": "2500 Campeau Drive",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Ottawa",
+        "POSTALCODE": "K2K2W3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.12512922,
+          43.81240122999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The City of Pickering - George Ashe Library & Community Centre",
+        "X": -79.1251,
+        "Y": 43.8124,
+        "FID": 9072,
+        "OGF_ID": 127902764,
+        "MOH_PRO_ID": 289,
+        "EN_NAME": "The City of Pickering - George Ashe Library & Community Centre",
+        "FR_NAME": "Ville de Pickering - Centre communautaire et bibliothï¿½que George Ashe",
+        "ADDRESS_1": "470 Kingston Road",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Pickering",
+        "POSTALCODE": "L1V1A4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.31272189,
+          48.47062196000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The City of Thunder Bay - North McIntyre Rec Centre",
+        "X": -89.3127,
+        "Y": 48.4706,
+        "FID": 9073,
+        "OGF_ID": 127902765,
+        "MOH_PRO_ID": 290,
+        "EN_NAME": "The City of Thunder Bay - North McIntyre Rec Centre",
+        "FR_NAME": "Ville de Thunder Bay - North McIntyre Rec Centre",
+        "ADDRESS_1": "2051 Government Road",
+        "ADDRESS_2": "(North end)",
+        "COMMUNITY": "Thunder Bay",
+        "POSTALCODE": "P7B5E3",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.02048397999998,
+          43.85072603999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Corporation of the Town of Ajax",
+        "X": -79.0205,
+        "Y": 43.8507,
+        "FID": 9074,
+        "OGF_ID": 127902766,
+        "MOH_PRO_ID": 291,
+        "EN_NAME": "The Corporation of the Town of Ajax",
+        "FR_NAME": "Corporation de la ville d’Ajax",
+        "ADDRESS_1": "65 Harwood Avenue South",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Ajax",
+        "POSTALCODE": "L1S2H9",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.14104689,
+          44.00901195000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Prince Edward County Community Care for Seniors Association",
+        "X": -77.141,
+        "Y": 44.009,
+        "FID": 9075,
+        "OGF_ID": 127902767,
+        "MOH_PRO_ID": 292,
+        "EN_NAME": "The Prince Edward County Community Care for Seniors Association",
+        "FR_NAME": "The Prince Edward County Community Care for Seniors Association",
+        "ADDRESS_1": "74 King Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Prince Edward",
+        "POSTALCODE": "K0K2J0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.89119385,
+          43.64898776000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Town of Halton Hills - Hillsview Active Living Centre",
+        "X": -79.8912,
+        "Y": 43.649,
+        "FID": 9076,
+        "OGF_ID": 127902768,
+        "MOH_PRO_ID": 293,
+        "EN_NAME": "The Town of Halton Hills - Hillsview Active Living Centre",
+        "FR_NAME": "Ville de Halton Hills - Centre de vie active Hillsview",
+        "ADDRESS_1": "318 Guelph Street",
+        "ADDRESS_2": "Unit 9, back of building",
+        "COMMUNITY": "Halton Hills",
+        "POSTALCODE": "L7G4B5",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.06407178,
+          44.4809923,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Town of Wasaga Beach - Youth Centre",
+        "X": -80.0641,
+        "Y": 44.481,
+        "FID": 9077,
+        "OGF_ID": 127902769,
+        "MOH_PRO_ID": 294,
+        "EN_NAME": "The Town of Wasaga Beach - Youth Centre",
+        "FR_NAME": "Ville de Wasaga Beach - Maison de jeunes",
+        "ADDRESS_1": "1621 Mosely Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Wasaga Beach",
+        "POSTALCODE": "L9Z1S2",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.93867986,
+          43.87254454000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Town of Whitby - Satellite Programs",
+        "X": -78.9387,
+        "Y": 43.8725,
+        "FID": 9078,
+        "OGF_ID": 127902770,
+        "MOH_PRO_ID": 295,
+        "EN_NAME": "The Town of Whitby - Satellite Programs",
+        "FR_NAME": "Ville de Whitby - Satellite Programs",
+        "ADDRESS_1": "801 Brock Street South",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Whitby",
+        "POSTALCODE": "L1N4L4",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.14914163,
+          43.62088814000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Township of Guelph Eramosa - Rockmosa Older Adult Centre",
+        "X": -80.1491,
+        "Y": 43.6209,
+        "FID": 9079,
+        "OGF_ID": 127902771,
+        "MOH_PRO_ID": 296,
+        "EN_NAME": "The Township of Guelph Eramosa - Rockmosa Older Adult Centre",
+        "FR_NAME": "Canton de Guelph/Eramosa - Rockmosa Older Adult Centre",
+        "ADDRESS_1": "121 Rockmosa Avenue",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Rockwood",
+        "POSTALCODE": "N0B2K0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.26764259999999,
+          48.80785155,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Township of Schreiber - Schreiber Public Library",
+        "X": -87.2676,
+        "Y": 48.8079,
+        "FID": 9080,
+        "OGF_ID": 127902772,
+        "MOH_PRO_ID": 297,
+        "EN_NAME": "The Township of Schreiber - Schreiber Public Library",
+        "FR_NAME": "Canton de Schreiber – Bibliothèque publique de Shreiber",
+        "ADDRESS_1": "314 Scotia Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Schreiber",
+        "POSTALCODE": "P0T2S0",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.28466525999998,
+          43.7012714,
+          0
+        ]
+      },
+      "properties": {
+        "name": "West Scarborough Neighbourhood Centre - SAS programs",
+        "X": -79.2847,
+        "Y": 43.7013,
+        "FID": 9082,
+        "OGF_ID": 127902774,
+        "MOH_PRO_ID": 299,
+        "EN_NAME": "West Scarborough Neighbourhood Centre - SAS programs",
+        "FR_NAME": "West Scarborough Neighbourhood Centre - SAS programs",
+        "ADDRESS_1": "313 Pharmacy Avenue",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Toronto",
+        "POSTALCODE": "M1L3E7",
+        "EFF_DATE": 20200403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.23692299000001,
+          50.63804904999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Whispering Pines Seniors Centre",
+        "X": -93.2369,
+        "Y": 50.638,
+        "FID": 9083,
+        "OGF_ID": 127902775,
+        "MOH_PRO_ID": 300,
+        "EN_NAME": "Whispering Pines Seniors Centre",
+        "FR_NAME": "Centre pour aînés Whispering Pines",
+        "ADDRESS_1": "30 Spruce Street",
+        "ADDRESS_2": null,
+        "COMMUNITY": "Ear Falls",
+        "POSTALCODE": "P0V1T0",
+        "EFF_DATE": 20200403
+      }
+    }
+  ]
+}
